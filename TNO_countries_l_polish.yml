@@ -1,0 +1,1676 @@
+﻿l_polish:
+ ###  ██████╗ ██████╗ ██╗   ██╗███╗   ██╗████████╗██████╗ ██╗   ██╗    ███╗   ██╗ █████╗ ███╗   ███╗███████╗███████╗ ###
+ ### ██╔════╝██╔═══██╗██║   ██║████╗  ██║╚══██╔══╝██╔══██╗╚██╗ ██╔╝    ████╗  ██║██╔══██╗████╗ ████║██╔════╝██╔════╝ ###
+ ### ██║     ██║   ██║██║   ██║██╔██╗ ██║   ██║   ██████╔╝ ╚████╔╝     ██╔██╗ ██║███████║██╔████╔██║█████╗  ███████╗ ###
+ ### ██║     ██║   ██║██║   ██║██║╚██╗██║   ██║   ██╔══██╗  ╚██╔╝      ██║╚██╗██║██╔══██║██║╚██╔╝██║██╔══╝  ╚════██║ ###
+ ### ╚██████╗╚██████╔╝╚██████╔╝██║ ╚████║   ██║   ██║  ██║   ██║       ██║ ╚████║██║  ██║██║ ╚═╝ ██║███████╗███████║ ###
+ ###  ╚═════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝       ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚══════╝ ###
+ ## Country tags are sorted alphabetically
+ ## MAKE SURE THAT WHATEVER YOU ADD CONFORMS TO THE ALPHABETICAL ORDER
+ ## If not then I'm going to appear on your bedroom at 2AM brandishing an axe
+
+ # A
+ ADL: "Republika Andaluzji"
+ ADL_DEF: "Republika Andaluzji"
+
+ ADN: "Pakt Andyjski"
+ ADN_DEF: "Pakt Andyjski"
+ ADN_ADJ: "Pacto Andino"
+
+ AFG: "Królestwo Afganistanu"
+ AFG_DEF: "Królestwo Afganistanu"
+ AFG_communist: "Demokratyczna Republika Afganistanu"
+ AFG_communist_DEF: "Demokratyczna Republika Afganistanu"
+ AFG_socialist: "Demokratyczna Republika Afganistanu"
+ AFG_socialist_DEF: "Demokratyczna Republika Afganistanu"
+ AFG_national_socialism: "Islamski Emirat Afganistanu"
+ AFG_national_socialism_DEF: "Islamski Emirat Afganistanu"
+ AFG_ultranationalism: "Islamski Emirat Afganistanu"
+ AFG_ultranationalism_DEF: "Islamski Emirat Afganistanu"
+ AFG_esoteric_nazism: "Islamski Emirat Afganistanu"
+ AFG_esoteric_nazism_DEF: "Islamski Emirat Afganistanu"
+ AFG_ADJ: "Afgański"
+
+ AFR: "Afar"
+ AFR_DEF: "Afar"
+ AFR_ADJ: "Afari"
+
+ AGS: "Angriffsgruppe Steiner"
+ AGS_DEF: "Angriffsgruppe Steiner"
+ AGS_ADJ: "Angriffsgruppe Steiner"
+
+ AKT: "Aktau"
+ AKT_DEF: "Państwo Aktau"
+ AKT_ADJ: "Aktau"
+
+ ALB: "Albania"
+ ALB_DEF: "Albania"
+ ALB_ADJ: "Albański"
+
+ ALD: "Aldan"
+ ALD_DEF: "Partyzancka Republika Aldan"
+ ALD_ADJ: "Aldanian"
+
+ ALG: "Algeria"
+ ALG_DEF: "Algeria"
+ ALG_communist: "Socjalistyczna Republika Algierska"
+ ALG_communist_DEF: "Socjalistyczna Republika Algierska"
+ ALG_socialist: "Socjalistyczna Republika Algierska"
+ ALG_socialist_DEF: "Socjalistyczna Republika Algierska"
+ ALG_ADJ: "Algierski"
+
+ ALT: "Oyrotia"
+ ALT_DEF: "Oyrotia"
+ ALT_authoritarian_democracy_DEF: "Rząd Karakorum Oyrotia"
+ ALT_ADJ: "Oyrot"
+
+ AMK: "Komisariat Rzeszy Ameryka"
+ AMK_DEF: "Komisariat Rzeszy Ameryka"
+ AMK_ADJ: "Amerykański"
+
+ AMR: "Amur"
+ AMR_DEF: "Amur"
+ AMR_fascism_DEF: "Wszechrosyjski rząd Amuru"
+ AMR_national_socialism_DEF: "Wszechrosyjski rząd Amuru"
+ AMR_ultranationalism_DEF: "Wszechrosyjski rząd Amuru"
+ AMR_ADJ: "Amur"
+
+ ANC: "African National Congress"
+ ANC_DEF: "the African National Congress"
+ ANC_ADJ: "Afrykański"
+
+ ANG: "Republika Angoli"
+ ANG_DEF: "Republika Angoli"
+ ANG_ADJ: "Angola"
+
+ ANT: "Antigua i Barbuda"
+ ANT_DEF: "Antigua i Barbuda"
+ ANT_ADJ: "Antigua"
+
+ APF: "Aryjski Front Ludowy"
+ APF_DEF: "Aryjski Front Ludowy"
+ APF_ADJ: "Volksfront"
+
+ ARA: "Republika Arakan"
+ ARA_DEF: "Republika Arakan"
+ ARA_ADJ: "Arakan"
+
+ ARP: "Argentyńska Strefa Okupacyjna"
+ ARP_DEF: "Argentyńska strefa okupacyjna w Paragwaju"
+ ARP_ADJ: "Argentyński"
+
+ ARL: "Aktobe"
+ ARL_DEF: "Narodowa Republika Aktobe"
+ ARL_ADJ: "Aktobe"
+
+ ARM: "Armenia"
+ ARM_DEF: "the Republic of Armenia"
+ ARM_ADJ: "Ormiański"
+
+ ARG: "Argentyna"
+ ARG_DEF: "the Argentine Republic"
+ ARG_ADJ: "Argentyński"
+
+ ASS: "Assamese Popular Front"
+ ASS_DEF: "the Assamese Popular Front"
+ ASS_ADJ: "Assamese"
+
+ AST: "Australia"
+ AST_DEF: "Australia"
+ AST_ADJ: "Australian"
+
+ AUS: "Gebirgsjägerkern Ostmark"
+ AUS_DEF: "the Gebirgsjägerkern Ostmark"
+ AUS_ADJ: "Austrian"
+
+ AWB: "Afrikaner Weerstandsbeweging"
+ AWB_DEF: "the Afrikaner Weerstandsbeweging"
+ AWB_ADJ: "Afrikaner"
+
+ AYA: "Anyanya"
+ AYA_DEF: "Anyanya"
+ AYA_ADJ: "Anyanyan"
+
+ AZA: "Azania Liberation Front"
+ AZA_DEF: "the Azania Liberation Front"
+ AZA_ADJ: "Azanian"
+
+ AZD: "Azandeland"
+ AZD_DEF: "Azandeland"
+
+ AZH: "Azad Hind Government"
+ AZH_DEF: "the Azad Hind Government"
+ AZH_ADJ: "East Indian"
+
+ AZW: "Azawad"
+ AZW_DEF: "Azawad"
+ AZW_ADJ: "Azawadi"
+
+ # B
+ BAH: "Bahamas"
+ BAH_DEF: "the Bahamas"
+ BAH_ADJ: "Carribean"
+
+ BAL: "Balochistan"
+ BAL_DEF: "Balochistan"
+ BAL_ADJ: "Balochi"
+
+ BDL: "Bodoland"
+ BDL_DEF: "Bodoland"
+ BDL_ADJ: "Bodo"
+
+ BFR: "Biafra"
+ BFR_DEF: "Biafra"
+ BFR_ADJ: "Biafran"
+
+ BGR: "Niemcy Bormanna"
+ BGR_DEF: "Niemcy Bormanna"
+ BGR_ADJ: "Niemieckie"
+
+ BHU: "Bhutan"
+ BHU_DEF: "Bhutan"
+ BHU_ADJ: "Bhutanese"
+
+ BIH: "Bihar"
+ BIH_DEF: "Bihar"
+ BIH_ADJ: "Bihar"
+
+ BIR: "Ba'athist Iraq"
+ BIR_DEF: "the Arab Republic of Iraq"
+ BIR_ADJ: "Iraqi"
+
+ BKR: "Republika Baszkortostanu"
+ BKR_DEF: "Republika Baszkortostanu"
+ BKR_ADJ: "Bashkiria"
+
+ BKU: "Mosul and Kerkuk"
+ BKU_DEF: "the Barzani Administration of Mosul and Kerkuk"
+ BKU_ADJ: "Mosul and Kerkuk"
+
+ BKV: "Bukavu"
+ BKV_DEF: "the State of Bukavu"
+ BKV_ADJ: "Bukavu"
+
+ BLR: "Republika Białorusi"
+ BLR_DEF: "Republika Białorusi"
+ BLR_ADJ: "Białoruskie"
+
+ BLZ: "Belize"
+ BLZ_DEF: "Belize"
+ BLZ_ADJ: "Belizejska"
+
+ BOL: "Boliwia"
+ BOL_DEF: "Republika Boliwii"
+ BOL_ADJ: "Boliwijskie"
+
+ BOR: "Republika Burska"
+ BOR_DEF: "Republika Burska"
+ BOR_ADJ: "Burska"
+
+ BOS: "Bośnia"
+ BOS_DEF: "Bośnia"
+ BOS_ADJ: "Bośniacka"
+
+ BOT: "Botswana"
+ BOT_DEF: "Botswana"
+ BOT_ADJ: "Botswanan"
+
+ BRA: "Brazylia"
+ BRA_DEF: "Republika Stanów Zjednoczonych Brazylii"
+ BRA_ADJ: "Brazylijska"
+
+ BRB: "Barbados"
+ BRB_DEF: "Barbados"
+ BRB_ADJ: "Barbadian"
+
+ BRM: "Bermuda"
+ BRM_DEF: "Bermuda"
+ BRM_ADJ: "Carribean"
+
+ BRP: "Brazylijska stefa okupacyjna"
+ BRP_DEF: "Brazylijska stefa okupacyjna w Paragwaju"
+ BRP_ADJ: "Brazylijska"
+
+ BRT: "Republika Bretanii"
+ BRT_DEF: "Republika Bretanii"
+ BRT_esoteric_nazism: "SS-Ordensstaat Bretania"
+ BRT_esoteric_nazism_DEF: "SS-Ordensstaat Bretania"
+ BRT_ADJ: "Bretońskie"
+
+ BRU: "Brunei"
+ BRU_DEF: "the Sultanate of Brunei"
+ BRU_ADJ: "Bruneian"
+
+ BSQ: "Basque Republic"
+ BSQ_DEF: "the Basque Republic"
+ BSQ_ADJ: "Basque"
+
+ BUR: "State of Burma"
+ BUR_DEF: "the State of Burma"
+ BUR_communist: "Union of Burma"
+ BUR_communist_DEF: "the Union of Burma"
+ BUR_socialist: "Union of Burma"
+ BUR_socialist_DEF: "the Union of Burma"
+ BUR_social_democracy: "Union of Burma"
+ BUR_social_democracy_DEF: "the Union of Burma"
+ BUR_liberal_democracy: "Union of Burma"
+ BUR_liberal_democracy_DEF: "the Union of Burma"
+ BUR_conservative_democracy: "Union of Burma"
+ BUR_conservative_democracy_DEF: "the Union of Burma"
+ BUR_ADJ: "Burmese"
+ 
+ BZZ: "Brazzaville"
+ BZZ_DEF: "Brazzaville"
+ BZZ_ADJ: "Brazzavillian"
+
+ # C
+ CAM: "Kingdom of Kampuchea"
+ CAM_DEF: "the Kingdom of Kampuchea"
+ CAM_ADJ: "Khmer"
+
+ CAN: "Kanada"
+ CAN_DEF: "Kanada"
+ CAN_ADJ: "Kanadyjskie"
+
+ CAO: "Cameroon"
+ CAO_DEF: "Cameroon"
+ CAO_authoritarian_democracy: "Republic of Cameroon"
+ CAO_authoritarian_democracy_DEF: "the Republic of Cameroon"
+ CAO_socialist: "Cameroonian African State"
+ CAO_socialist_DEF: "the Cameroonian African State"
+ CAO_fascism: "Cameroonian African State"
+ CAO_fascism_DEF: "the Cameroonian African State"
+ CAO_ADJ: "Cameroonian"
+
+ CBR: "People's Republic of Burma"
+ CBR_DEF: "the People's Republic of Burma"
+ CBR_ADJ: "Burmese"
+
+ CHD: "Sara Republic"
+ CHD_DEF: "the Sara Republic"
+ CHD_ADJ: "Sara"
+
+ CHF: "Saraland Front"
+ CHF_DEF: "the Saraland Front"
+ CHF_ADJ: "Saralandian"
+
+ CHG: "Chugoku"
+ CHG_DEF: "Chugoku"
+ CHG_ADJ: "Chugoku"
+
+ CHK: "Chukotka"
+ CHK_DEF: "Chukotka"
+ CHK_ADJ: "Chukotkan"
+
+ CHL: "Chile"
+ CHL_DEF: "the Republic of Chile"
+ CHL_ADJ: "Chilean"
+
+ CHN: "Chin State"
+ CHN_DEF: "the Chin State"
+ CHN_ADJ: "Chin"
+
+ CHR: "Evenk"
+ CHR_DEF: "Evenk"
+ CHR_ADJ: "Evenk"
+
+ CHT: "Chita"
+ CHT_DEF: "Chita"
+ CHT_authoritarian_democracy_DEF: "the Transbaikal Principality"
+ CHT_despotism_DEF: "the Transbaikal Principality"
+ CHT_ADJ: "Chitan"
+ 
+ CME: "COMECON"
+ CME_DEF: "the Council for Mutual Economic Assistance"
+ CME_ADJ: "COMECON"
+
+ CNT: "Catalan Republic"
+ CNT_DEF: "the Catalan Republic"
+ CNT_communist: "Free Catalonia"
+ CNT_communist_DEF: "Free Catalonia"
+ CNT_socialist: "Catalan Popular Front"
+ CNT_socialist_DEF: "the Catalan Popular Front"
+ CNT_ADJ: "Catalan"
+ 
+ COG: "Republic of Congo"
+ COG_DEF: "the Republic of Congo"
+ COG_ADJ: "Congoan"
+
+ COL: "Kolumbia"
+ COL_DEF: "Republika Kolumbii"
+ COL_ADJ: "Kolumbijska"
+
+ COS: "Kostaryka"
+ COS_DEF: "Kostaryka"
+ COS_ADJ: "Kostarykańska"
+
+ CPP: "Convention People's Party"
+ CPP_DEF: "the Convention People's Party"
+ CPP_ADJ: "Convention People's Party"
+
+ CRI: "Gubernatorstwo Krymu"
+ CRI_DEF: "Gubernatorstwo Krymu"
+ CRI_ADJ: "Krymska"
+
+ CRN: "Militärverwaltung der Britischen Inseln"
+ CRN_DEF: "die Militärverwaltung der Britischen Inseln"
+ CRN_ADJ: "Garnizon Kornwalii"
+
+ CRO: "Królestwo Chorwacji"
+ CRO_DEF: "Królestwo Chorwacji"
+ CRO_national_socialism: "Niepodległe Państwo Chorwackie"
+ CRO_national_socialism_DEF: "Niepodległe Państwo Chorwackie"
+ CRO_ultranationalism: "Niepodległe Państwo Chorwackie"
+ CRO_ultranationalism_DEF: "Niepodległe Państwo Chorwackie"
+ CRO_ADJ: "Chorwackie"
+ 
+ CSK: "Państwo Kozackie"
+ CSK_DEF: "Państwo Kozackie"
+ CSK_ADJ: "Kozackie"
+
+ CTA: "Republika Bêafrîka"
+ CTA_DEF: "Republika Bêafrîka"
+ CTA_communist: "Ludowa Republika Bêafrîka"
+ CTA_communist_DEF: "Ludowa Republika Bêafrîka"
+ CTA_socialist: "Ludowa Republika Bêafrîka"
+ CTA_socialist_DEF: "Ludowa Republika Bêafrîka"
+ CTA_ADJ: "Bêafrîkańska"
+
+ CUB: "Kuba"
+ CUB_DEF: "Republika Kuby"
+ CUB_ADJ: "Kubańskie"
+
+ CUR: "Curaçao"
+ CUR_DEF: "Curaçao"
+ CUR_ADJ: "Curaçaoan"
+
+ CYL: "Republika Cejlonu"
+ CYL_DEF: "Republika Cejlonu"
+ CYL_communist: "Socjalistyczna Republika Sri Lanki"
+ CYL_communist_DEF: "Socjalistyczna Republika Sri Lanki"
+ CYL_social_democracy: "Republiką Sri Lanki"
+ CYL_social_democracy_DEF: "Republiką Sri Lanki"
+ CYL_socialist: "Socjalistyczna Republika Sri Lanki"
+ CYL_socialist_DEF: "Socjalistyczna Republika Sri Lanki"
+ 
+ CZE: "Wehrkreis XIX"
+ CZE_DEF: "Wehrkreis XIX"
+
+ DEN: "Dania"
+ DEN_DEF: "Dania"
+ DEN_ADJ: "Duńskie"
+
+ DER: "Kustanaj"
+ DER_DEF: "Islamska Republika Kustanaji"
+ DER_ADJ: "Kustanajska"
+
+ DFK: "Niemieckie Freikorps"
+ DFK_DEF: "Niemieckie Freikorps"
+ DFK_ADJ: "Niemiecki Freikorps"
+
+ DMI: "Dominika"
+ DMI_DEF: "Dominika"
+ DMI_ADJ: "Dominikańska"
+
+ DOM: "Republika Dominikany"
+ DOM_DEF: "Republika Dominikany"
+ DOM_ADJ: "Dominikańska"
+
+ DRL: "Orsk"
+ DRL_DEF: "Orsk"
+ DRL_ADJ: "Orsk"
+ 
+ DSG: "Deutsche Notstandsregierung"
+ DSG_DEF: "the Deutsche Notstandsregierung"
+ DSG_ADJ: "German"
+
+ DSH: "Die Schwarze Bande"
+ DSH_DEF: "Die Schwarze Bande"
+ DSH_ADJ: "German"
+
+ # E
+ ECU: "Ekwador"
+ ECU_DEF: "Republika Ekwadoru"
+ ECU_ADJ: "Ekwadorskie"
+
+ EFS: "English Free State"
+ EFS_DEF: "the English Free State"
+ EFS_ADJ: "English"
+
+ EGY: "Egipt"
+ EGY_DEF: "Egipt"
+ EGY_communist: "Socjalistyczna Republika Egiptu"
+ EGY_communist_DEF: "Socjalistyczna Republika Egiptu"
+ EGY_socialist: "Socjalistyczna Republika Egiptu"
+ EGY_socialist_DEF: "Socjalistyczna Republika Egiptu"
+ EGY_ADJ: "Egipskie"
+
+ ELS: "Salwador"
+ ELS_DEF: "Salwador"
+ ELS_ADJ: "Salwadorska"
+
+ ENA: "Eastern Naval Authority"
+ ENA_DEF: "the Eastern Naval Authority"
+ ENA_ADJ: "German"
+
+ ERT: "Erytrea"
+ ERT_DEF: "Erytrea"
+ ERT_ADJ: "Erytrejska"
+
+ EST: "Estonia"
+ EST_DEF: "Estonia"
+ EST_ADJ: "Estońskie"
+
+ ETR: "Turkiestan Wschodni"
+ ETR_DEF: "Turkiestan Wschodni"
+ ETR_ADJ: "Wschodnioturkiestańska"
+
+ # F
+ FAV: "Wolni lotnicy"
+ FAV_DEF: "Wolni lotnicy"
+ FAV_liberal_democracy: "Lotnicy premium"
+ FAV_liberal_democracy_DEF: "Lotnicy premium"
+ FAV_ADJ: "Wolni lotnicy"
+
+ FCO: "Republika Konga"
+ FCO_DEF: "Republika Konga"
+ FCO_ADJ: "Kongijska"
+
+ FFR: "Wolna Francja"
+ FFR_DEF: "Wolna Francja"
+ FFR_ADJ: "Wolno Francuskie"
+ 
+ FGB: "Firipin Gunseibu"
+ FGB_DEF: "Jyuyon Gun Gunseikanbu"
+ FGB_ADJ: "14th Army"
+ 
+ FHH: "Rzesza Niemiecka"
+ FHH_DEF: "Rzesza Niemiecka"
+ FHH_ADJ: "Niemieckie"
+
+ FIN: "Republika Finlandii"
+ FIN_DEF: "Republika Finlandii"
+ FIN_ADJ: "Fińskie"
+
+ FMF: "Freedom Military Force"
+ FMF_DEF: "the Freedom Military Force"
+ FMF_ADJ: "Freedom Military Force"
+
+ FOR: "Formosa"
+ FOR_DEF: "Formosa"
+ FOR_ADJ: "Formosan"
+
+ FPG: "Freikorps "Berserker""
+ FPG_DEF: "Freikorps "Berserker""
+ FPG_ADJ: "Berserker"
+
+ FRA: "Państwo Francuskie"
+ FRA_DEF: "Państwo Francuskie"
+ FRA_communist: "Francuska Republika Ludowo-Demokratyczna"
+ FRA_communist_DEF: "Francuska Republika Ludowo-Demokratyczna"
+ FRA_socialist: "Francuska Republika Ludowo-Demokratyczna"
+ FRA_socialist_DEF: "Francuska Republika Ludowo-Demokratyczna"
+ FRA_social_democracy: "Republika Francuska"
+ FRA_social_democracy_DEF: "Republika Francuska"
+ FRA_liberal_democracy: "Republika Francuska"
+ FRA_liberal_democracy_DEF: "Republika Francuska"
+ FRA_conservative_democracy: "Republika Francuska"
+ FRA_conservative_democracy_DEF: "Republika Francuska"
+ FRA_authoritarian_democracy: "Państwo Francuskie"
+ FRA_authoritarian_democracy_DEF:0 "Państwo Francuskie"
+ FRA_despotism: "Państwo Francuskie"
+ FRA_despotism_DEF: "Państwo Francuskie"
+ FRA_despotism_absolute_monarchy_subtype: "Królestwo Francuskie"
+ FRA_despotism_absolute_monarchy_subtype_DEF: "Królestwo Francuskie"
+ FRA_ADJ: "Francuskie"
+
+ FRI: "Free Indonesia"
+ FRI_DEF: "The Free Indonesian National Front"
+ FRI_communist: "Free Indonesian People's Republic"
+ FRI_communist_DEF: "The Free Indonesian People's Republic"
+ FRI_socialist: "Free Indonesian People's Republic"
+ FRI_socialist_DEF: "The Free Indonesian People's Republic"
+ FRI_ADJ: "The Free Indonesian National Front"
+
+ FSP: "Freistaat Prußen"
+ FSP_DEF: "Freistaat Prußen"
+ FSP_ADJ: "Niemiecki"
+
+ FTF: "Fuuta Fulbe"
+ FTF_DEF: "Fuuta Fulbe"
+ FTF_ADJ: "Fulbe"
+
+ FUK: "Wolna Ukraina"
+ FUK_DEF: "Wolna Ukraina"
+ FUK_ADJ: "Wolni Ukraincy"
+
+ FZL: "Frente Azul"
+ FZL_DEF: "Frente Azul"
+ FZL_ADJ: "Spanish"
+
+ # G
+ GAB: "Państwo narodowe Orungu"
+ GAB_DEF: "Państwo narodowe Orungu"
+ GAB_communist: "Ludowa Republika Orungu"
+ GAB_communist_DEF: "Ludowa Republika Orungu"
+ GAB_socialism_DEF: "Ludowa Republika Orungu"
+ GAB_socialist: "Ludowa Republika Orungu"
+ GAB_social_democracy: "Republika Orungu"
+ GAB_social_democracy_DEF: "Republika Orungu"
+ GAB_liberal_democracy: "Republika Orungu"
+ GAB_liberal_democracy_DEF: "Republika Orungu"
+ GAB_conservative_democracy: "Republika Orungu"
+ GAB_conservative_democracy_DEF: "Republika Orungu"
+ GAB_national_socialism: "Ludowe Państwo Narodowe Orungu"
+ GAB_national_socialism_DEF: "Ludowe Państwo Narodowe Orungu"
+ GAB_ultranationalism: "Ludowe Państwo Narodowe Orungu"
+ GAB_ultranationalism_DEF: "Ludowe Państwo Narodowe Orungu"
+ GAB_esoteric_nazism: "Ludowe Państwo Narodowe Orungu"
+ GAB_esoteric_nazism_DEF: "Ludowe Państwo Narodowe Orungu"
+ GAB_ADJ: "Orungu"
+
+ GAL: "Republika Galicyjska"
+ GAL_DEF: "Republika Galicyjska"
+ GAL_ADJ: "Galicyjska"
+
+ GND: "Grenada"
+ GND_DEF: "Grenada"
+ GND_ADJ: "Grenadan"
+
+ GOR: "Gorky"
+ GOR_DEF: "Gorky"
+ GOR_communist_DEF: "Radziecki Gorki"
+ GOR_socialist_DEF: "Radziecki Gorki"
+ GOR_despotism_DEF: "Brygada Czołgów im. Gorkiego"
+ GOR_ADJ: "Gorky"
+
+ GRN: "Grenlandia"
+ GRN_DEF: "Grenlandia"
+ GRN_ADJ: "Grenlandzkie"
+
+ GUA: "Gwatemala"
+ GUA_DEF: "Gwatemala"
+ GUA_ADJ: "Gwatemalskie"
+
+ GUD: "Guadeloupe"
+ GUD_DEF: "Guadeloupe"
+ GUD_ADJ: "Guadeloupan"
+
+ GZO: "Front Wyzwolenia Mozambiku"
+ GZO_DEF: "Front Wyzwolenia Mozambiku"
+ GZO_ADJ: "Mozambijskie"
+
+ # H
+ HAU: "Sokoto"
+ HAU_DEF: "Sokoto"
+ HAU_ADJ: "Sokoto"
+
+ HON: "Honduras"
+ HON_DEF: "Honduras"
+ HON_ADJ: "Honduran"
+
+ HRR: "Hereroland"
+ HRR_DEF: "Republika Hererolandu"
+ HRR_ADJ: "Herero"
+
+ HUU: "Hunan"
+ HUU_DEF: "Hunan"
+ HUU_ADJ: "Hunan"
+ HUU_authoritarian_democracy: "Central China Political Council"
+ HUU_authoritarian_democracy_DEF: "the Central China Political Council"
+ HUU_authoritarian_democracy_ADJ: "Chinese"
+ HUU_despotism: "Central China Political Council"
+ HUU_despotism_DEF: "the Central China Political Council"
+ HUU_despotism_ADJ: "Chinese"
+ HUU_fascism: "Central China Political Council" 
+ HUU_fascism_DEF: "the Central China Political Council"
+ HUU_fascism_ADJ: "Chinese"
+ HUU_fascism_party_long: "Central China Political Council"
+ HUU_fascism_party: "CCPC"
+
+ # I
+ IBG: "Jamhooria-e-Islami Bangal"
+ IBG_DEF: "the Jamhooria-e-Islami Bangal"
+ IBG_ADJ: "Bengali"
+
+ IKR: "Republika Kurdystanu"
+ IKR_DEF: "Republika Kurdystanu"
+ IKR_ADJ: "Kurdyjskie"
+
+ INC: "Komunistyczna Partia Indii"
+ INC_DEF: "Komunistyczna Partia Indii"
+ INC_ADJ: "Komunistyczne Indie"
+
+ IND: "Republika Indii"
+ IND_DEF: "Republika Indii"
+ IND_ADJ: "Zachodnioindyjski"
+
+ INF: "Front Janata"
+ INF_DEF: "Front Janata"
+ INF_ADJ: "Janata"
+
+ IRI: "Islamska Republika Iranu"
+ IRI_DEF: "Islamska Republika Iranu"
+ IRI_ADJ: "Irańskie"
+
+ IRN: "Państwo Irańskie"
+ IRN_DEF: "Państwo Irańskie"
+ IRN_ADJ: "Irańskie"
+
+ IRP: "Republika Iracka"
+ IRP_DEF: "Republika Iracka"
+ IRP_ADJ: "Irakijskie"
+
+ IRQ: "Irak"
+ IRQ_DEF: "Republika Iraku"
+ IRQ_ADJ: "Irakijskie"
+
+ IRR: "Republika Irańska"
+ IRR_DEF: "Republika Irańska"
+ IRR_ADJ: "Irańskie"
+
+ ISS: "Schlesischer Industriebund"
+ ISS_DEF: "the Schlesischer Industriebund"
+ ISS_ADJ: "Niemieckie"
+
+ # J
+ JAM: "Jamaica"
+ JAM_DEF: "Jamaica"
+ JAM_ADJ: "Jamaican"
+
+ JER: "Jerusalem"
+ JER_DEF: "Jerusalem"
+ JER_ADJ: "Jerusalem"
+
+ JOR: "Jordan"
+ JOR_DEF: "Jordan"
+ JOR_despotism: "Emirate of Transjordan"
+ JOR_despotism_DEF: "the Emirate of Transjordan"
+ JOR_ADJ: "Jordanian"
+
+ JST: "SS-Oberabschnitt Ostland"
+ JST_DEF: "SS-Oberabschnitt Ostland"
+ JST_ADJ: "Schutzstaffel"
+
+ JHR: "Sultanate of Johor"
+ JHR_DEF: "the Sultanate of Johor"
+ JHR_ADJ: "Johor"
+
+ # K
+ KAC: "Kachin Republic"
+ KAC_DEF: "the Kachin Republic"
+ KAC_ADJ: "Kachin"
+
+ KAL: "Federacja Syberyjskich Robotników"
+ KAL_DEF: "Federacja Syberyjskich Robotników"
+ KAL_ADJ: "Syberyjski"
+
+ KAR: "Kawthoolei"
+ KAR_DEF: "Kawthoolei"
+ KAR_ADJ: "Kawthoolei"
+
+ KAS: "Kashmir"
+ KAS_DEF: "Kashmir"
+ KAS_ADJ: "Kashmir"
+
+ KAT: "Katanga"
+ KAT_DEF: "Katanga"
+ KAT_ADJ: "Katanga"
+
+ KBA: "Kapa Bokone African State"
+ KBA_DEF: "the Kapa Bokone African State"
+ KBA_ADJ: "Kapa Bokone"
+
+ KEN: "Kenia"
+ KEN_DEF: "Kenia"
+ KEN_ADJ: "Kenian"
+
+ KHP: "Kampfgruppe Heilige Pflicht"
+ KHP_DEF: "Kampfgruppe Heilige Pflicht"
+ KHP_ADJ: "German"
+
+ KIN: "Honshu Provisional Republic"
+ KIN_DEF: "the Honshu Provisional Republic"
+ KIN_ADJ: "Japońska"
+
+ KJA: "Kalenjinia"
+ KJA_DEF: "Kalenjinia"
+ KJA_ADJ: "Kalenjinian"
+
+ KLB: "Sicherheitsdienst des Reichsführers-SS"
+ KLB_DEF: "the Sicherheitsdienst des Reichsführer-SS"
+ KLB_ADJ: "German"
+
+ KNT: "Państwo Kanto"
+ KNT_DEF: "Państwo Kanto"
+ KNT_ADJ: "Japońska"
+
+ KOL: "Yana"
+ KOL_DEF: "Yana"
+ KOL_ADJ: "Yanan"
+
+ KOR: "Korea"
+ KOR_DEF: "Korea"
+ KOR_ADJ: "Korean"
+
+ KRL: "Karelian Autonomy"
+ KRL_DEF: "the Karelian Autonomy"
+ KRL_ADJ: "Karelian"
+
+ KSS: "Kommandostab Waffen-SS"
+ KSS_DEF: "Kommandostab Waffen-SS"
+ KSS_ADJ: "German"
+
+ KUR: "Kurdistan"
+ KUR_DEF: "the Republic of Kurdistan"
+ KUR_ADJ: "Kurdish"
+
+ KYK: "Kikuyuland"
+ KYK_DEF: "Kikuyuland"
+ KYK_ADJ: "Kikuyuland"
+
+ # L
+ LHH: "Leibstandarte Heinrich Himmler"
+ LHH_DEF: "Leibstandarte Heinrich Himmler"
+ LHH_ADJ: "Leibstandarte"
+
+ # M
+ MED: "Reichskommissariat Mittelmeer"
+ MED_DEF: "Reichskommissariat Mittelmeer"
+ MED_communist: "COMMUNSIT Reichskommissariat Mittelmeer"
+ MED_socialist: "SOCIALSIT Reichskommissariat Mittelmeer"
+ MED_conservative_democracy: "TPUSA Reichskommissariat Mittelmeer"
+ MED_liberal_democracy: "LIBERAL Reichskommissariat Mittelmeer"
+ MED_ADJ: "Reichskommissariat Mittelmeeran"
+
+ MGN: "Magnitogorsk"
+ MGN_DEF: "the People's Republic of Magnitogorsk"
+ MGN_ADJ: "Magnitogorsk"
+ MLD: "Maldives"
+ MLD_DEF: "the Maldives"
+ MLD_ADJ: "Maldivan"
+
+ MOC: "Monaco"
+ MOC_DEF: "the Principality of Monaco"
+ MOC_ADJ: "Monaco"
+
+ MOM: "Sultanate of Mombasa"
+ MOM_DEF: "the Sultanate of Mombasa"
+ MOM_communist: "Mombasite Republic"
+ MOM_communist_DEF: "the Mombasite Republic"
+ MOM_socialist: "Mombasite Republic"
+ MOM_socialist_DEF: "the Mombasite Republic"
+ MOM_ADJ: "Mombasite"
+
+ MRT: "Martinique"
+ MRT_DEF: "Martinique"
+ MRT_ADJ: "Martinican"
+
+ MZO: "Mizoram"
+ MZO_DEF: "Mizoram"
+ MZO_ADJ: "Mizo"
+
+ # N
+ NAM: "Republika Namibii"
+ NAM_DEF: "Republika Namibii"
+ 
+ NAX: "Rebelia naxalitów"
+ NAX_DEF: "Rebelia naxalitów"
+ NAX_ADJ: "naxalicka"
+
+ NGA: "Nigeria"
+ NGA_DEF: "Wolna Republika Nigeryjska"
+ NGA_ADJ: "Nigeryjska"
+
+ NGR: "Niger"
+ NGR_DEF: "the Republic of the Niger River"
+ NGR_ADJ: "Nigeryjska"
+
+ NIC: "Nikaragua"
+ NIC_DEF: "Nikaragua"
+ NIC_ADJ: "Nikaraguańska"
+ 
+ NNG: "Nigeria"
+ NNG_DEF: "Nigeria"
+ NNG_despotism: "Północna Nigeria"
+ NNG_despotism_DEF: "Dowództwo Wojskowe Północnej Nigerii"
+ NNG_ADJ: "Nigeryjska"
+
+ NOV: "Nowosybirsk"
+ NOV_DEF: "Federacja Nowosybirska i Ałtajska"
+ NOV_ADJ: "Nowosybirska"
+
+ NPL: "Nowa Polska"
+ NPL_DEF: "Polska Autonomiczna Socjalistyczna Republika Radziecka"
+ NPL_ADJ: "Polski"
+
+ NTG: "Nizhny Tagil"
+ NTG_DEF: "Nizhny Tagil"
+ NTG_ADJ: "Nizhny Tagil"
+
+
+ NYM: "Yemen Arab Democratic Republic"
+ NYM_DEF: "the Yemen Arab Democratic Republic"
+ NYM_ADJ: "Yemeni"
+
+ # O
+ OER: "Militärisches Sondergericht des Reiches"
+ OER_DEF: "Militärisches Sondergericht"
+ OER_ADJ: "German"
+
+ OKL: "Oberkommando der Luftwaffe"
+ OKL_DEF: "Oberkommando der Luftwaffe"
+ OKL_ADJ: "German"
+
+ OKT: "Oktyabrskiy"
+ OKT_DEF: "Oktyabrskiy"
+ OKT_ADJ: "Oktyabrskiy"
+
+ OMA: "Oman"
+ OMA_DEF: "Oman"
+ OMA_ADJ: "Omani"
+
+ OMB: "Dhofar Rebellion"
+ OMB_DEF: "the Dhofar Rebellion"
+ OMB_ADJ: "Omani"
+
+ OMI: "Imamate of Oman"
+ OMI_DEF: "the Imamate of Oman"
+ OMI_ADJ: "Omani"
+
+ OMO: ""
+ OMO_DEF: ""
+ OMO_ADJ: "Siberian"
+ 
+ OMS: "Omsk"
+ OMS_DEF: "Omsk"
+ OMS_ultranationalism_DEF: "Czarna Liga Syberyjska"
+ OMS_ADJ: "Omsk"
+
+ ORE: "Orenburg"
+ ORE_DEF: "the Orenburg Communes"
+ ORE_ADJ: "Orenburg"
+
+ ORM: "Oromia"
+ ORM_DEF: "Oromia"
+ ORM_ADJ: "Oromia"
+
+ OSA: "OFN Forces South Africa"
+ OSA_DEF: "the OFN Forces South Africa"
+ OSA_ADJ: "OFN Forces South Africa"
+ 
+ OVB: "Ovamboland"
+ OVB_DEF: "Ovamboland"
+ OVB_ADJ: "Ovambo"
+ 
+ # P
+ PAD: "Księstwo Andory"
+ PAD_DEF: "Księstwo Andory"
+ PAD_ADJ: "Andorran"
+
+ PAK: "Pakistan"
+ PAK_DEF: "Pakistan"
+ PAK_ADJ: "Pakistani"
+
+ PAL: "Palestyna"
+ PAL_DEF: "Palestyna"
+ PAL_despotism: "Królestwo Palestyny"
+ PAL_despotism_DEF: "Królestwo Palestyny"
+ PAL_ADJ: "Palestyńskie"
+
+ PAN: "Panama"
+ PAN_DEF: "Panama"
+ PAN_ADJ: "Panamski"
+
+ PAR: "Paraguay"
+ PAR_DEF: "the Republic of Paraguay"
+ PAR_ADJ: "Paraguayan"
+ 
+ PAV: "Pavlodar"
+ PAV_DEF: "the Republic of Pavlodar"
+ PAV_ADJ: "Pavlodar"
+
+ PCZ: "Panama Canal Zone"
+ PCZ_DEF: "the Panama Canal Zone"
+ PCZ_ADJ: "Zonian"
+
+ PER: "Cesarskie Państwo Iranu"
+ PER_DEF: "Cesarskie Państwo Iranu"
+ PER_ADJ: "Irańska"
+
+ PHI: "Second Philippine Republic"
+ PHI_DEF: "the Second Philippine Republic"
+ PHI_communist: "Socialist Republic of the Philippines"
+ PHI_communist_DEF: "the Socialist Republic of the Philippines"
+ PHI_socialist: "Socialist Republic of the Philippines"
+ PHI_socialism_DEF: "the Socialist Republic of the Philippines"
+ PHI_ultranationalism: "14th Army District"
+ PHI_ultranationalism_DEF: "the 14th Army District"
+ PHI_ultranationalism_ADJ: "14th Army District"
+ PHI_ADJ: "Filipino"
+
+ PKT: "Zollverein"
+ PKT_DEF: "Der Zollverein"
+ PKT_ADJ: "German"
+ 
+ POR: "Portugal"
+ POR_DEF: "Portugal"
+ POR_ADJ: "Portuguese"
+ 
+ PRK: "Children of Spartakus"
+ PRK_DEF: "Children of Spartakus"
+ PRK_ADJ: "Slave"
+
+ PRM: "Perm"
+ PRM_DEF: "Perm"
+ PRM_national_socialism: "Bractwo Aryjskie"
+ PRM_national_socialism_DEF: "Bractwo Aryjskie"
+ PRM_ADJ: "Perm"
+
+ PRU: "Peru"
+ PRU_DEF: "the Republic of Peru"
+ PRU_ADJ: "Peruvian"
+
+ PUR: "Puerto Rico"
+ PUR_DEF: "Puerto Rico"
+ PUR_ADJ: "Carribean"
+
+ # Q
+ QAT: "Qatar"
+ QAT_DEF: "Qatar"
+ QAT_ADJ: "Qatari"
+
+ QIN: "Ma Clique"
+ QIN_DEF: "the Ma Clique"
+ QIN_ADJ: "Ma"
+
+ QUE: "Québec"
+ QUE_DEF: "Québec"
+ QUE_ADJ: "Québécois"
+
+ # R
+ RAM: "Monland"
+ RAM_DEF: "Monland"
+ RAM_ADJ: "Mon"
+
+ RNW: "Regierung des Nationalen Wiederaufbaus"
+ RNW_DEF: "the Regierung des Nationalen Wiederaufbaus"
+ RNW_ADJ: "German"
+
+ ROM: "Królestwo Rumunii"
+ ROM_DEF: "Królestwo Rumunii"
+ ROM_communist: "Rumuńska Republika Ludowa"
+ ROM_communist_DEF: "Rumuńska Republika Ludowa"
+ ROM_socialist: "Rumuńska Republika Ludowa"
+ ROM_socialism_DEF: "Rumuńska Republika Ludowa"
+ ROM_national_socialism: "Narodowo-ludowe państwo Rumunii"
+ ROM_national_socialism_DEF: "Narodowo-ludowe państwo Rumunii"
+ ROM_ultranationalism: "Narodowo-ludowe państwo Rumunii"
+ ROM_ultranationalism_DEF: "Narodowo-ludowe państwo Rumunii"
+ ROM_ADJ: "Rumuńskie"
+
+ RPS: "Republic of Sudan"
+ RPS_DEF: "the Republic of Sudan"
+ RPS_ADJ: "Sudanese"
+
+ RSD: "SS Division Hindenburg"
+ RSD_DEF: "the SS Division Hindenburg"
+ RSD_ADJ: "Hindenburg"
+
+ RSL: "Luftkreis Südwestafrika"
+ RSL_DEF: "the Luftkreis Südwestafrika"
+ RSL_ADJ: "Südwestafrikaner"
+
+ RSQ: "Abteilung Ostafrika"
+ RSQ_DEF: "the Arbeitsgruppe Experimentalmedizin - Abteilung Ostafrika"
+ RSQ_ADJ: "Arbeitsgruppe"
+
+ RSZ: "Kolonialverwaltung Sambesi"
+ RSZ_DEF: "the Kolonialverwaltung Sambesi"
+ RSZ_ADJ: "Sambesi"
+
+ RUS: "Republic of Russia"
+ RUS_DEF: "the Republic of Russia"
+ RUS_ADJ: "Russian"
+ RUS_communist: "Union of Socialist Soviet Republics"
+ RUS_communist_DEF: "the Union of Socialist Soviet Republics"
+ RUS_communist_ADJ: "Soviet"
+ RUS_socialist: "Union of Socialist Soviet Republics"
+ RUS_socialism_DEF: "the Union of Socialist Soviet Republics"
+ RUS_socialism_ADJ: "Soviet"
+ RUS_despotism: "Russian Empire"
+ RUS_despotism_DEF: "the Russian Empire"
+ RUS_fascism: "National State of Russia"
+ RUS_fascism_DEF: "the National State of Russia"
+ RUS_national_socialism: "National State of Russia"
+ RUS_national_socialism_DEF: "the National State of Russia"
+ RUS_ultranationalism: "National State of Russia"
+ RUS_ultranationalism_DEF: "the National State of Russia"
+ RUS_esoteric_nazism: "National State of Russia"
+ RUS_esoteric_nazism_DEF: "the National State of Russia"
+
+ # S
+ SAM: "Samara"
+ SAM_DEF: "Samara"
+ SAM_authoritarian_democracy_DEF: "the Committee for the Liberation of the Peoples of Russia"
+ SAM_despotism_DEF: "the Committee for the Liberation of the Peoples of Russia"
+ SAM_fascism_DEF: "the Committee for the Liberation of the Peoples of Russia"
+ SAM_national_socialism_DEF: "the Committee for the Liberation of the Peoples of Russia"
+ SAM_ultranationalism_DEF: "the Committee for the Liberation of the Peoples of Russia"
+ SAM_ADJ: "Samara"
+
+ SAO: "Republic of São Tomé"
+ SAO_DEF: "the Republic of São Tomé"
+ SAO_ADJ: "Santomean"
+
+ SAU: "Arabia Saudyjska"
+ SAU_DEF: "Królestwo Arabii Saudyjskiej"
+ SAU_ADJ: "Arabski"
+
+ SCA: "Scania"
+ SCA_DEF: "Scania"
+ SCA_ADJ: "Scanian"
+
+ SCC: "South China Political Council"
+ SCC_DEF: "the South China Political Council"
+ SCC_ADJ: "Chinese"
+ SCC_authoritarian_democracy: "South China Political Council"
+ SCC_authoritarian_democracy_DEF: "the South China Political Council"
+ SCC_authoritarian_democracy_ADJ: "Chinese"
+ SCC_despotism: "South China Political Council"
+ SCC_despotism_DEF: "the South China Political Council"
+ SCC_despotism_ADJ: "Chinese"
+ SCC_fascism: "South China Political Council"
+ SCC_fascism_DEF: "the South China Political Council"
+ SCC_fascism_ADJ: "Chinese"
+
+ SCO: "Szkocja"
+ SCO_DEF: "Republika Szkocji"
+ SCO_ADJ: "Szkockie"
+
+ SDF: "Sudan Defense Force"
+ SDF_DEF: "the Sudan Defense Force"
+ SDF_ADJ: "Sudanese"
+
+ SDS: "State of Sudan"
+ SDS_DEF: "the State of Sudan"
+ SDS_communist: "People's Republic of Sudan"
+ SDS_communist_DEF: "the People's Republic of Sudan"
+ SDS_socialist: "Sudanese Free Officers Organisation"
+ SDS_socialist_DEF: "the Sudanese Free Officers Organisation"
+ SDS_national_socialism: "Ba'athist State of Sudan"
+ SDS_national_socialism_DEF: "the Ba'athist State of Sudan"
+ SDS_ADJ: "Sudanese"
+
+ SER: "Republika Serbii"
+ SER_DEF: "Republika Serbii"
+ SER_communist: "Socjalistyczna Republika Serbii"
+ SER_communist_DEF: "Socjalistyczna Republika Serbii"
+ SER_socialist: "Socjalistyczna Republika Serbii"
+ SER_socialist_DEF: "Socjalistyczna Republika Serbii"
+ SER_authoritarian_democracy: "Serbski Front Wyzwolenia Narodowego"
+ SER_authoritarian_democracy_DEF: "Serbski Front Wyzwolenia Narodowego"
+ SER_despotism: "Królestwo Serbii"
+ SER_despotism_DEF: "Królestwo Serbii"
+ SER_fascism: "Rząd Ocalenia Narodowego"
+ SER_fascism_DEF: "Rząd Ocalenia Narodowego"
+ SER_national_socialism: "Rząd Ocalenia Narodowego"
+ SER_national_socialism_DEF: "Rząd Ocalenia Narodowego"
+ SER_ultranationalism: "Terytorium dowódcy wojskowego w Serbii"
+ SER_ultranationalism_DEF: "Terytorium dowódcy wojskowego w Serbii"
+ SER_esoteric_nazism: "Terytorium dowódcy wojskowego w Serbii"
+ SER_esoteric_nazism_DEF: "Terytorium dowódcy wojskowego w Serbii"
+ SER_ADJ: "Serbskie"
+
+ SGR: "Niemcy Speera"
+ SGR_DEF: "Niemcy Speera"
+ SGR_ADJ: "Niemieckie"
+
+ SGV: "Spetsgruppa V"
+ SGV_DEF: "the Spetsgruppa V"
+ SGV_ADJ: "Spetsgruppa V"
+
+ SHA: "Shan Kingdom"
+ SHA_DEF: "the Shan Kingdom"
+ SHA_ADJ: "Shan"
+
+ SHK: "Khalistan"
+ SHK_DEF: "Khalistan"
+ SHK_ADJ: "Punjabi"
+
+ SHO: "Shonan"
+ SHO_DEF: "Shonan"
+ SHO_ADJ: "Shonan"
+ SHO_communist_ADJ: "Malayan"
+ SHO_socialist_ADJ: "Malayan"
+
+ SHX: "Shaanxi"
+ SHX_DEF: "Shaanxi"
+ SHX_ADJ: "Shaanxi"
+ SHX_fascism: "Shanxi Clique"
+ SHX_fascism_DEF: "Shanxi Clique"
+ SHX_liberal_democracy: "Shanxi Clique"
+ SHX_liberal_democracy_DEF: "Shanxi Clique"
+ SHX_market_liberal: "Shanxi Clique"
+ SHX_market_liberal_DEF: "Shanxi Clique"
+ SHX_conservative_democracy: "Shanxi Clique"
+ SHX_conservative_democracy_DEF: "Shanxi Clique"
+ SHX_authoritarian_democrat: "Shanxi Clique"
+ SHX_authoritarian_democrat_DEF: "Shanxi Clique"
+ SHX_despotism: "Shanxi Clique"
+ SHX_despotism_DEF: "the Shanxi Clique"
+ SHX_communist: "Shanxi Clique"
+ SHX_communist_DEF: "Shanxi Clique"
+ SHX_socialist: "Shanxi Clique"
+ SHX_socialist_DEF: "Shanxi Clique"
+ SHX_national_socialism: "Shanxi Clique"
+ SHX_national_socialism_DEF: "Shanxi Clique"
+ SHX_ultranational_socialism: "Shanxi Clique"
+ SHX_ultranational_socialism_DEF: "Shanxi Clique"
+
+ SIC: "Shisen Gunseikan"
+ SIC_DEF: "Shisen Gunseikan"
+ SIC_ADJ: "Syczuańskie"
+
+ SKH: "Salekhard"
+ SKH_DEF: "Salekhard"
+ SKH_ADJ: "Salekhard"
+
+ SKK: "Republika Shikoku"
+ SKK_DEF: "Republika Shikoku"
+ SKK_ADJ: "Japońskie"
+
+ SKN: "St. Kitts, Nevis, & Anguilla"
+ SKN_DEF: "Saint Kitts, Nevis, & Anguilla"
+ SKN_ADJ: "Karaibskie"
+
+ SLF: "Południowoafrykański Front Wyzwolenia"
+ SLF_DEF: "Południowoafrykański Front Wyzwolenia"
+ SLF_ADJ: "RPA"
+
+ SLU: "St. Lucia"
+ SLU_DEF: "Saint Lucia"
+ SLU_ADJ: "Lucian"
+
+ SML: "Somalia"
+ SML_DEF: "Somalia"
+ SML_ADJ: "Somalijski"
+
+ SMO: "Smoleńsk"
+ SMO_ADJ: "Smoleńskie"
+ SMO_DEF: "Smoleńsk"
+
+ SND: "Sindhudesh"
+ SND_DEF: "Sindhudesh"
+ SND_ADJ: "Sindhi"
+
+ SNI: "Islamska Republika Iraku"
+ SNI_DEF: "Islamska Republika Iraku"
+ SNI_ADJ: "Iracka"
+
+ SNM: "San Marino"
+ SNM_DEF: "Republika San Marino"
+ SNM_ADJ: "San Marinean"
+ 
+ SNS: "Syryjskie Państwo Narodowe"
+ SNS_DEF: "Syryjskie Państwo Narodowe"
+ SNS_ADJ: "Syryjskie"
+
+ SPA: "Hiszpania"
+ SPA_DEF: "Hiszpania"
+ SPA_ADJ: "Hiszpańska"
+
+ SPH: "Second Philippine Republic"
+ SPH_DEF: "the Second Philippine Republic"
+ SPH_ADJ: "Filipino"
+ SPH_communist: "AFRSR"
+ SPH_communist_DEF: "the All-Filipino Revolutionary Socialist Republic"
+ SPH_socialist: "AFRSR"
+ SPH_socialist_DEF: "the All-Filipino Revolutionary Socialist Republic"
+ SPH_despotism: "US Forces in Philippines"
+ SPH_despotism_DEF: "the US Forces in Philippines"
+
+ SPR: "Republika Hiszpańska"
+ SPR_DEF: "Republika Hiszpańska"
+ SPR_ADJ: "Hiszpańska"
+
+ SRK: "Sarawak"
+ SRK_DEF: "the Raj of Sarawak"
+ SRK_ADJ: "Sarawak Malay"
+
+ SRT: "Stowarzyszenie Armii "Wolna Europa""
+ SRT_DEF: "Stowarzyszenie Armii "Wolna Europa""
+ SRT_ADJ: "Stowarzyszenie Armii "Wolna Europa""
+
+ SSF: "SS-Kampfgruppe Fegelein"
+ SSF_DEF: "SS-Kampfgruppe Fegelein"
+ SSF_ADJ: "Niemieckie"
+
+ SSL: "SS-Ordensstaat Lotaryngia"
+ SSL_DEF: "SS-Ordensstaat Lotaryngia"
+ SSL_ADJ: "Niemieckie"
+ SSL_despotism: "Lotaryngia"
+ SSL_despotism_DEF: "Lotaryngia"
+
+ SSN: "SS-Arbeitslager Norymberga"
+ SSN_DEF: "SS-Arbeitslager Norymberga"
+ SSN_ADJ: "Niemieckie"
+
+ SSW: "SS-Oberabschnitt Westfalia"
+ SSW_DEF: "SS-Oberabschnitt Westfalia"
+ SSW_ADJ: "German"
+
+ SUD: "Front południowo-zachodnioafrykański"
+ SUD_DEF: "Front południowo-zachodnioafrykański"
+ SUD_ADJ: "Południowo-zachodnioafrykańska"
+
+ SVI: "St. Vincent i Grenadyny"
+ SVI_DEF: "Saint Vincent i Grenadyny"
+ SVI_ADJ: "Wincentyńskie"
+
+ PRC: "Ludowa Rada Rewolucyjna"
+ PRC_DEF: "Ludowa Rada Rewolucyjna"
+ PRC_ADJ: "Rosyjski"
+
+ SVR: "Swierdłowsk"
+ SVR_DEF: "Uralski Okręg Wojskowy"
+ SVR_ADJ: "Swierdłowskie"
+
+ SWB: "Sawaba"
+ SWB_DEF: "Sawaba"
+ SWB_ADJ: "Sawaba"
+
+ SWE: "Królestwo Szwecji"
+ SWE_DEF: "Królestwo Szwecji"
+ SWE_ADJ: "Szwedzkie"
+
+ SWI: "Szwajcaria"
+ SWI_DEF: "Szwajcaria"
+ SWI_ADJ: "Szwajcarskie"
+
+ SYK: "Syktywkar"
+ SYK_DEF: "Syktywkar"
+ SYK_ADJ: "Syktywkar"
+
+ SYR: "Syryjska Republika"
+ SYR_DEF: "Syryjska Republika"
+ SYR_ADJ: "Syryjska"
+
+ # T
+ TAJ: "Tadżycka Socjalistyczna Republika Radziecka"
+ TAJ_DEF: "Tadżycka SRR"
+ TAJ_communist_DEF: "Tadżycka Socjalistyczna Republika Radziecka"
+ TAJ_socialist_DEF: "Tadżycka Socjalistyczna Republika Radziecka"
+ TAJ_ultranationalism_DEF: "Tadżycka Socjalistyczna Republika Radziecka"
+ TAJ_ADJ: "Tadżycka"
+
+ TAN: "Tuwa"
+ TAN_DEF: "Tuwa"
+ TAN_ADJ: "Tuwińska"
+ TAN_socialist: "Ałtajsko-Tuwińska"
+ TAN_socialist_DEF: "Ałtajsko-Tuwińska Republika Ludowa"
+ TAN_socialist_ADJ: "Ałtajsko-Tuwińska"
+
+ TAR: "Tatarstan"
+ TAR_DEF: "Republika Tatarska"
+ TAR_ADJ: "Tatar"
+ TAR_socialist_DEF: "Tatarska ASRR"
+ TAR_communist_DEF: "Tatarska ASRR"
+
+ THA: "Republika Tajlandii"
+ THA_DEF: "Republika Tajlandii"
+ THA_ADJ: "Tajlandzka"
+
+ TIB: "Tybet"
+ TIB_DEF: "Tybet"
+ TIB_ADJ: "Tybetańskie"
+
+ TIG: "Tamil Eelam"
+ TIG_DEF: "Tamil Eelam"
+ TIG_ADJ: "Tamil"
+
+ TKS: "Takasago"
+ TKS_DEF: "Takasago"
+ TKS_ADJ: "Takasago"
+
+ TMA: "Północnorosyjski Front Wyzwolenia"
+ TMA_DEF: "Północnorosyjski Front Wyzwolenia"
+ TMA_ADJ: "Północnorosyjska"
+
+ TMB: "Bractwo Kaina"
+ TMB_DEF: "Bractwo Kaina"
+ TMB_ADJ: "Bractwo"
+
+ TMC: "United Siberian Salvation Committee"
+ TMC_DEF: "The United Siberian Salvation Committee"
+ TMC_ADJ: "Kamchatkan"
+ 
+ TMD: "Imperial Airborne Brigades"
+ TMD_DEF: "The Imperial Airborne Brigades"
+ TMD_ADJ: "Imperial"
+
+ TME: "Republika Środkowoeuroazjatycka"
+ TME_DEF: "Republika Środkowoeuroazjatycka"
+ TME_ADJ: "Euroazjatycka"
+
+ TMF: "Nenetsian Free Army"
+ TMF_DEF: "The Nenetsian Free Army"
+ TMF_ADJ: "Nenetsian"
+
+ TMG: "Imperium Rosyjskie"
+ TMG_DEF: "Imperium Rosyjskie"
+ TMG_ADJ: "Imperialna rosyjska"
+
+ TMH: "Kingdom of Altay"
+ TMH_DEF: "The Kingdom of Altay"
+ TMH_ADJ: "Altay"
+
+ TMI: "Chelyabinsk Institute"
+ TMI_DEF: "The Chelyabinsk Institute"
+ TMI_ADJ: "Chelyabinsk"
+
+ TMJ: "Republic of New Tomsk"
+ TMJ_DEF: "The Republic of New Tomsk"
+ TMJ_ADJ: "Tomskian"
+
+ TMK: "Free Kazakh Clans"
+ TMK_DEF: "The Free Kazakh Clans"
+ TMK_ADJ: "Free Kazakh"
+
+ TML: "Autonomous Soviet Liberation Army"
+ TML_DEF: "The Autonomous Soviet Liberation Army"
+ TML_ADJ: "Soviet"
+
+ TMM: "Free Port of Magadan"
+ TMM_DEF: "The Free Port of Magadan"
+ TMM_ADJ: "Magadan"
+
+ TMN: "Revolutionary Communes of Orenburg"
+ TMN_DEF: "The Revolutionary Communes of Orenburg"
+ TMN_ADJ: "Orenburg"
+
+ TMO: "Redeemed Black League"
+ TMO_DEF: "The Redeemed Black League"
+ TMO_ADJ: "Black League"
+
+ TMP: "Kazakh Purification Army"
+ TMP_DEF: "The Kazakh Purification Army"
+ TMP_ADJ: "Kazakh"
+
+ TMQ: "Idel-Ural Free State"
+ TMQ_DEF: "The Idel-Ural Free State"
+ TMQ_ADJ: "Idel-Ural"
+
+ TMR: "Amur Refugee Zone"
+ TMR_DEF: "The Amur Refugee Zone"
+ TMR_ADJ: "Amur"
+
+ TMS: "Christian Republic of Samara"
+ TMS_DEF: "The Christian Republic of Samara"
+ TMS_ADJ: "Samaran"
+
+ TMT: "Trans-Ural Confederation"
+ TMT_DEF: "The Trans-Ural Confederation"
+ TMT_ADJ: "Ural"
+
+ TMU: "Ural Purification Zone"
+ TMU_DEF: "The Ural Purification Zone"
+ TMU_ADJ: "Imperial"
+
+ TMV: "Imperial Mercantile Consortium"
+ TMV_DEF: "The Imperial Mercantile Consortium"
+ TMV_ADJ: "Consortium"
+
+ TMW: "Wolne Syberyjskie Terytorium"
+ TMW_DEF: "Wolne Syberyjskie Terytorium"
+ TMW_ADJ: "Wolny syberyjski"
+
+ TMX: "Bratsk Communal Vanguard"
+ TMX_DEF: "The Bratsk Communal Vanguard"
+ TMX_ADJ: "Vanguardist"
+
+ TMY: "Regencja Świętej Rosji"
+ TMY_DEF: "Regencja Świętej Rosji"
+ TMY_ADJ: "Cesarski"
+
+ TND: "Tanganyika Defense Front"
+ TND_DEF: "the Tanganyika Defense Front"
+ TND_ADJ: "Tanganyika Defense Front"
+
+ TOH: "Republic of Tohoku"
+ TOH_DEF: "the Republic of Tohoku"
+ TOH_ADJ: "Japanese"
+
+ TOM: "Tomsk"
+ TOM_DEF: "Tomsk"
+ TOM_ADJ: "Tomsk"
+ TOM_communist_DEF: "Republika Środkowo-Syberyjska"
+ TOM_socialist_DEF: "Republika Środkowo-Syberyjska"
+ TOM_social_democracy_DEF: "Republika Środkowo-Syberyjska"
+ TOM_liberal_democracy_DEF: "Republika Środkowo-Syberyjska"
+ TOM_conservative_democracy_DEF: "Republika Środkowo-Syberyjska"
+ TOM_authoritarian_democracy_DEF: "Republika Środkowo-Syberyjska"
+
+ TOO: "Tooro"
+ TOO_DEF: "the Kingdom of Tooro"
+ TOO_ADJ: "Tooro"
+
+ TRI: "Trinidad and Tobago"
+ TRI_DEF: "Trinidad and Tobago"
+ TRI_ADJ: "Trinidadian and Tobagan"
+
+ TRK: "Turkmenistan"
+ TRK_DEF: "Republika Turkmenistanu"
+ TRK_ADJ: "Turkmen"
+ TRK_communist: "Socjalistyczna Republika Turkmenistanu"
+ TRK_communist_DEF: "Socjalistyczna Republika Turkmenistanu"
+
+ TRZ: "Trarza"
+ TRZ_DEF: "Trarza"
+ TRZ_ADJ: "Trarzan"
+
+ TUR: "Republika Turcji"
+ TUR_DEF: "Republika Turcji"
+ TUR_ADJ: "Turecka"
+
+ # U
+ UAR: "Zjednoczona Republika Arabska"
+ UAR_DEF: "Zjednoczona Republika Arabska"
+ UAR_ADJ: "Arabskie"
+ UAR_ultranationalism: "Zjednoczona Wspólnota Islamska"
+ UAR_ultranationalism_DEF: "Zjednoczona Wspólnota Islamska"
+ UAR_ultranationalism_ADJ: "Islamskie"
+
+ UFK: "Zjednoczone Pierwsze Królestwa"
+ UFK_DEF: "Zjednoczone Pierwsze Królestwa"
+ UFK_ADJ: "Kohi"
+
+ UKH: "Uchta"
+ UKH_DEF: "Uchta"
+ UKH_communist_DEF: "Okręg Wojskowy Uchta"
+ UKH_ADJ: "Uchta"
+
+ UKR: "Republika Ukrainy"
+ UKR_DEF: "Republika Ukrainy"
+ UKR_ADJ: "Ukraińskie"
+ UKR_communist: "Ukraińska Socjalistyczna Republika Radziecka"
+ UKR_communist_DEF: "Ukraińska Socjalistyczna Republika Radziecka"
+ UKR_socialist: "Ukraińska Socjalistyczna Republika Radziecka"
+ UKR_socialist_DEF: "Ukraińska Socjalistyczna Republika Radziecka"
+ UKR_fascism: "Państwo Ukraińskie"
+ UKR_fascism_DEF: "Państwo Ukraińskie"
+ UKR_national_socialism: "Państwo Ukraińskie"
+ UKR_national_socialism_DEF: "Państwo Ukraińskie"
+ UKR_ultranationalism: "Państwo Ukraińskie"
+ UKR_ultranationalism_DEF: "Państwo Ukraińskie"
+ UKR_esoteric_nazism: "Państwo Ukraińskie"
+ UKR_esoteric_nazism_DEF: "Państwo Ukraińskie"
+
+ UPH: "USFIP"
+ UPH_DEF: "The U.S. Forces in the Philippines"
+ UPH_ADJ: "Filipino"
+ UPH_communist: "Socialist Republic of the Philippines"
+ UPH_communist_DEF: "the Socialist Republic of the Philippines"
+ UPH_socialist: "Socialist Republic of the Philippines"
+ UPH_socialism_DEF: "the Socialist Republic of the Philippines"
+ UPH_despotism: "USFIP"
+ UPH_despotism_DEF: "The US Forces in the Philippines"
+
+ URG: "Urugwaj"
+ URG_DEF: "Ordensstaat Orientalische Band"
+ URG_esoteric_nazism: "Ordensstaat Orientalische Band"
+ URG_esoteric_nazism_DEF: "the Oriental Band"
+ URG_ADJ: "Urugwajskie"
+
+ URL: "Liga Uralska"
+ URL_DEF: "Liga Uralska"
+ URL_ADJ: "Uralskie"
+
+ URP: "Urugwajska Strefa Okupacyjna"
+ URP_DEF: "Urugwajska Strefa Okupacyjna w Paragwaju"
+ URP_ADJ: "Urugwajskie"
+
+ USA: "Stany Zjednoczone Ameryki"
+ USA_DEF: "Stany Zjednoczone Ameryki"
+ USA_ADJ: "Amerykańskie"
+
+ USC: "Republika Środkowej Afryki"
+ USC_DEF: "Republika Środkowej Afryki"
+ USC_ADJ: "Środkowo Afrykańskie"
+
+ UTL: "Legion Turkiestanu"
+ UTL_DEF: "Legion Turkiestanu"
+ UTL_ADJ: "Lejyonari"
+
+ UYG: "Uyghuristan"
+ UYG_DEF: "Uyghuristan"
+ UYG_ADJ: "Uyghuristani"
+
+ UZB: "Uzbekistan"
+ UZB_DEF: "Uzbekistan" 
+ UZB_ADJ: "Uzbecki" 
+ UZB_communist: "Republika Ludowa Uzbekistanu"
+ UZB_communist_DEF: "Republika Ludowa Uzbekistanu"
+ UZB_communist_ADJ: "Uzbecki"
+ UZB_socialist: "Republika Ludowa Uzbekistanu"
+ UZB_socialist_DEF: "Republika Ludowa Uzbekistanu"
+ UZB_socialist_ADJ: "Uzbecki"
+ UZB_social_democracy: "Republika Uzbekistanu"
+ UZB_social_democracy_DEF: "Republika Uzbekistanu"
+ UZB_liberal_democracy: "Republika Uzbekistanu"
+ UZB_liberal_democracy_DEF: "Republika Uzbekistanu"
+ UZB_conservative_democracy: "Republika Uzbekistanu"
+ UZB_conservative_democracy_DEF: "Republika Uzbekistanu"
+
+ # V
+ VAC: "Watykan"
+ VAC_DEF: "Watykan"
+ VAC_ADJ: "Watykańska"
+
+ VEN: "Wenezuela"
+ VEN_DEF: "Wenezuelska Republika"
+ VEN_ADJ: "Wenezuelskie"
+
+ VIL: ""
+ VIL_DEF: ""
+ VIL_ADJ: "Syberyjskie"
+
+ VRS: "Woroszyłowgrad"
+ VRS_DEF: "Woroszyłowgrad"
+ VRS_ADJ: "Woroszyłowgradzkie"
+
+ # W
+ WAL: "Walia"
+ WAL_DEF: "Republika Walii"
+ WAL_fascism: "Państwo walijskie"
+ WAL_fascism_DEF: "Państwo walijskie"
+ WAL_despotism: "Państwo Walijskie"
+ WAL_despotism_DEF: "Państwo Walijskie"
+ WAL_ADJ: "Walijskie"
+
+ WIN: "Federacja Indii Zachodnich"
+ WIN_DEF: "Federacja Indii Zachodnich"
+ WIN_ADJ: "Indie Zachodnie"
+
+ WOL: "Wolofia"
+ WOL_DEF: "Republika Wolofii"
+ WOL_ADJ: "Wolofian"
+ WOL_socialist: "Wolofia"
+ WOL_socialist_DEF: "Socjalistyczna Republika Wolofii"
+ WOL_socialist_ADJ: "Wolofian"
+
+
+ WRS: "Zachodniorosyjski Front Rewolucyjny"
+ WRS_DEF: "Zachodniorosyjski Front Rewolucyjny"
+ WRS_ADJ: "Zachodniorosyjski"
+
+ WST: "Komisariat Rzeszy Pacyfik"
+ WST_DEF: "Komisariat Rzeszy Pacyfik"
+ WST_ADJ: "Amerykańskie"
+
+ # X
+ XIN: "Klika Sinciangu"
+ XIN_DEF: "Klika Sinciangu "
+ XIN_ADJ: "Sinciang"
+
+ XSM: "Ma Klika"
+ XSM_DEF: "Ma Klika"
+ XSM_ADJ: "Ma"
+
+ # Y
+ YAK: "Jakucja"
+ YAK_communist: "Jakucka ASRR"
+ YAK_socialist: "Jakucka ASRR"
+ YAK_DEF: "Republika Sacha"
+ YAK_communist_DEF: "Jakucka Autonomiczna Socjalistyczna Republika Radziecka"
+ YAK_socialist_DEF: "Jakucka Autonomiczna Socjalistyczna Republika Radziecka"
+ YAK_ADJ: "Jakuckie"
+
+ YEM: "Yemen"
+ YEM_DEF: "Yemen"
+ YEM_ADJ: "Yemeni"
+
+ YEN: "Jenisejsk"
+ YEN_DEF: "Jenisejsk"
+ YEN_ADJ: "Jenisejskie"
+
+ YOR: "Yorubaland"
+ YOR_DEF: "Yorubaland"
+ YOR_ADJ: "Yoruban"
+
+ YUG: "Jugosławia"
+ YUG_DEF: "Jugosławia"
+ YUG_ADJ: "Jugosłowiańskie"
+ YUG_communist: "Socjalistyczna Republika Jugosławii"
+ YUG_communist_DEF: "Socjalistyczna Republika Jugosławii"
+ YUG_socialist: "Socjalistyczna Republika Jugosławii"
+ YUG_socialist_DEF: "Socjalistyczna Republika Jugosławii"
+ YUG_authoritarian_democracy: "Królestwo Jugosławii"
+ YUG_authoritarian_democracy_DEF: "Królestwo Jugosławii"
+ YUG_despotism: "Królestwo Jugosławii"
+ YUG_despotism_DEF: "Królestwo Jugosławii"
+
+ # Z
+ ZAR: "Zarmaland"
+ ZAR_DEF: "Zarmaland"
+ ZAR_ADJ: "Zarma"
+
+ ZBO: "Zambian Popular Front"
+ ZBO_DEF: "the Zambian Popular Front"
+ ZBO_ADJ: "Zambian Opposition"
+
+ ZLT: "Złatoust"
+ ZLT_DEF: "Republika Złotusta"
+ ZLT_ADJ: "Złatoust"
+
+ ZMO: "Front Narodowy Zimbabwe"
+ ZMO_DEF: "Front Narodowy Zimbabwe"
+ ZMO_ADJ: "Nacjonalistyczne Zimbabwe"
+
+ ZZS: "Zanzibarska Republika Socjalistyczna"
+ ZZS_DEF: "Zanzibarska Republika Socjalistyczna"
+ ZZS_ADJ: "Socjalistyczne Zanzibar"
+
+ ZZZ: ""
+ ZZZ_DEF: ""
+ ZZZ_ADJ: "Anarchic"

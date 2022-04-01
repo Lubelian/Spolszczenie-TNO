@@ -1,0 +1,44 @@
+﻿l_polish:
+ # Econ Sphere map mode
+ MAPMODE_TNO_ECON_SPHERE_MAP_MODE:0 "§YStrefa Ekonomiczna§!"
+ MAPMODE_TNO_ECON_SPHERE_MAP_MODE_NAME:0 "Ekon. Strefa"
+ MAPMODE_TNO_ECON_SPHERE_MAP_MODE_DESCRIPTION:0 "Pokazuje sfery gospodarcze, do których należą kraje na mapie."
+ 
+ tno_econ_sphere_map_mode_tooltip:0 "§Y[FROM.Controller.GetSphereName]§!"
+ tno_econ_sphere_map_mode_tooltip_delayed:0 "§F§Y[FROM.Controller.GetNameWithFlag]§! jest częścią §Y[FROM.Controller.GetSphereName]§!."
+ 
+ econ_sphere_map_mode_mapicon_tooltip: "§F[!econ_sphere_leader_icon_click]§!"
+ econ_sphere_map_mode_mapicon_tooltip_filled: "§Y[FROM.GetNameWithFlag]§! jest liderem §Y[FROM.GetSphereName]§! która składa się z:§!"
+ econ_sphere_map_mode_mapicon_tooltip_alone: "§Y[FROM.GetNameWithFlag]§! jest liderem §Y[FROM.GetSphereName]§! który obecnie składa się tylko z siebie.§!"
+
+ econ_sphere_map_mode_mapicon_tooltip_entry: "  - §Y[?FROM.econ_sphere_members^temp_sphere_idx.GetNameWithFlag]§!"
+ 
+ # Culture map mode
+ MAPMODE_TNO_CULTURE_MAP_MODE:0 "§YKultura§!"
+ MAPMODE_TNO_CULTURE_MAP_MODE_NAME:0 "Kultura"
+ MAPMODE_TNO_CULTURE_MAP_MODE_DESCRIPTION:0 "Pokazuje większość kultur na mapie świata."
+ 
+ tno_culture_map_mode_tooltip:0 "§Y[FROM.GetNationality]§!"
+ tno_culture_map_mode_tooltip_delayed:0 "§F(§Y[FROM.Controller.GetNameWithFlag]§!): [FROM.GetName] has a majority culture of §Y[FROM.GetNationality]§!.§!"
+ 
+ tno_culture_map_mode_debug: "§TDEBUG: Idź do stanu bez kultury§!"
+ 
+ # GDP Map mode
+ MAPMODE_GDP_MAP_MODE: "§YPKB na mieszkańca§!"
+ MAPMODE_GDP_MAP_MODE_NAME: "PKB na mieszkańca"
+ MAPMODE_GDP_MAP_MODE_DESCRIPTION: "Wyświetla PKB na mieszkańca stanu lub kraju."
+
+ gdp_map_mode_tooltip: "§F[Get_GDPMapMode_tooltip]§!"
+ gdp_map_mode_tooltip_delayed: "§F[Get_GDPMapMode_tooltip_delayed]§!"
+ 
+ gdp_STATE_map_mode_tooltip: "[FROM.GetName]: §Y$[?FROM.state_GDPPC]§!"
+ gdp_STATE_map_mode_tooltip_delayed: "§Y[FROM.GetName]§! has a GDP per capita of §Y$[?FROM.state_GDPPC]§!, [FROM.Get_GDPMapMode_STATE_average]"
+ gdp_COUNTRY_map_mode_tooltip: "(§Y[FROM.controller.GetNameWithFlag]§!): §Y$[?FROM.controller:gdpc_display]§!§!"
+ gdp_COUNTRY_map_mode_tooltip_delayed: "§Y[FROM.controller.GetName]§! has a national GDP per capita of §Y$[?FROM.controller:gdpc_display]§!."
+
+ GDPpC_STATE_negative_average: "which is [?gdpcc_state_average_n|2%R] less than the [FROM.controller.getflag] §Ynational average§! of §Y$[?FROM.controller:gdpc_display]§!."
+ GDPpC_STATE_positive_average: "which is [?gdpcc_state_average|2%G] more than the [FROM.controller.getflag] §Ynational average§! of §Y$[?FROM.controller:gdpc_display]§!."
+ 
+ GDPpC_country_level_button_tt: "Click to view §YNational GDP per Capita§!"
+ GDPpC_state_level_button_tt: "Click to view §YLocal GDP per Capita§!"
+ GDpC_empty_tt: "§RJuż przeglądasz ten tryb§!"

@@ -1,0 +1,323 @@
+﻿l_polish:
+
+ ## Focus prerequisites stuff (Regime Stab) ##
+
+ SGR_RegimeStab_50:0 "Przynajmniej §Y50%§! £GFX_regime_stability_texticon §YStabilnosci Rezimu§!."
+ SGR_RegimeStab_75:0 "Przynajmniej §Y75%§! £GFX_regime_stability_texticon §YStabilnosci Rezimu§!."
+
+ ## Economy ##
+ SGR_erratic_economy:0 "\nZe wzgledu na nasza §Rniekonsekwentna§! §Ypoltyke§! ekonomiczna, nasze §RDług Narodowy§!, §VInflacja§! i §Kwzrost PKB§! ucierpia."
+
+ SGR_econ_con_1:0 "Nasza £SGR_econ_policy §gpolityka ekonomiczna§! nieco skreci w kierunku £SGR_econ_con §skonserwatywnym§!!"
+ SGR_econ_con_2:0 "Nasza £SGR_econ_policy §gpolityka ekonomiczna§! skreci w kierunku £SGR_econ_con §skonserwatywnym§!!"
+ SGR_econ_con_3:0 "Nasza £SGR_econ_policy §gpolityka ekonomiczna§! ostro skreci w kierunku £SGR_econ_con §skonserwatywnym§!!"
+
+ SGR_econ_lib_1:0 "Nasza £SGR_econ_policy §gpolityka ekonomiczna§! nieco skreci w kierunku £SGR_econ_lib §Mliberalnym§!!"
+ SGR_econ_lib_2:0 "Nasza £SGR_econ_policy §gpolityka ekonomiczna§! skreci w kierunku £SGR_econ_lib §Mliberalnym§!!"
+ SGR_econ_lib_3:0 "Nasza £SGR_econ_policy §gpolityka ekonomiczna§! ostro skreci w kierunku £SGR_econ_lib §Mliberalnym§!!"
+
+ SGR_econ_attention:0 "\nPodczas naszej §Greformy§! ekonomicznej, §Rnieuchronnie§! bedziemy zmuszeni do §Ykompromisu§! lub wprowadzenia §Rsprzecznych§! posuniec ekonomicznych, aby utrzymac nasza gospodarke w dobrym zdrowiu. W zaleznosci od naszych §Bdziałan§!, nasza £SGR_econ_policy §gpolityka ekonomiczna§! moze stac sie bardziej £SGR_econ_lib §Mliberalna§! or £SGR_econ_con §skonserwatna§!. Zadbanie o zbalansowanie lub stałosc naszej £SGR_econ_policy §gpolityki ekonomicznej§! zapewni ciagły §Gwzrost§! gospodarczy."
+
+ SGR_econ_liberal:0 "£SGR_econ_lib §MLIBERALNA§!"
+ SGR_econ_conservative:0 "£SGR_econ_con §sKONSERWATYWNA§!"
+ SGR_econ_balanced:0 "§YZBALANSOWANA§!"
+
+ SGR_econ_oppose_con:0 "£SGR_econ_con §ssprzeczna§!"
+ SGR_econ_oppose_lib:0 "£SGR_econ_lib §Msprzeczna§!"
+ SGR_econ_oppose:0 "sprzeczna"
+
+ SGR_econ_consist_con:0 "£SGR_econ_con §sstała§!"
+ SGR_econ_consist_lib:0 "£SGR_econ_lib §Mstała§!"
+ SGR_econ_consist:0 "stała"
+
+ #£SGR_econ_policy £SGR_econ_con £SGR_econ_lib
+ ## Decisions ##
+
+ SGR_state_of_the_reich_category:0 "§WStan Rzeszy§!"
+ TNO_SGR_Decisions_GUI_regime_lean_text:0 "§YRezim§! obecnie przechyla sie na strone..."
+ TNO_SGR_Decisions_GUI_desc_text:0 "§YSTABILNOSC REZIMU§!: £GFX_regime_stability_texticon [?SGRRegimeStability|W%]\n\n£GFX_regime_stability_texticon §YStabilnosc Rezimu§! jest najważniejsza dla utrzymania rządu §OFührera§!. Wpływaja na nią §gkontrowersyjne decyzje§!, właczajac §Rkonserwatywne§! albo §Greformistyczne§! działania gdy §TPerspektywa Społeczenstwa§! jest względem nich przeciwna, tudziez £GFX_stability_texticon §WStabilnosc Narodowa§!, do poziomu której się powoli zbliza. Jesli £GFX_regime_stability_texticon §YStabilnosc Rezimu§! spadnie ponizej §Y30%§!, §Orzad§! może upasc!\n\n§TPERSPEKTYWA SPOŁECZENSTWA§!: £social_outlook_texticon [getLeaningPivot] ([?SGRSocietyLevel|+2]/[getSGRLimits])\n\n §TPerspektywa§! jest [getSGROutlook] ze zmiana [?SGRSocietyTick|+]/§Y14 days§!.\n\n£social_outlook_texticon §TPerspektywa Społeczenstwa§! to miara swiatopogladu §gnarodu niemieckiego§!. W zaleznosci od czynnikow takich jak §Qreformy ekonomiczne§!, §Ozwrot rezimu§! i nie tylko będzie z czasem ulegała zmianie. Jeśli odchył §Orzadu§! będzie do niej przeciwny, £GFX_regime_stability_texticon §YStabilnosc Rezimu§! zacznie spadac!\n\n£SGR_econ_policy §gPOLITYKA EKONOMICZNA§!: [getSGREconomyLean] ([?SGR_econ_lib|M0] - [?SGR_econ_con|s0])\n\n£SGR_econ_policy §gPolityka ekonomiczna§! to miara naszego podejscia do gospodarki kraju oparta na naszych §Bdziałaniach§! podczas naszych §Greform§! gospodarczych. Utrzymywanie naszej §gpolityki ekonomicznej§! w rownowadze lub [getSGROpposingEconomy2] zapewni stały §Gwzrost§! gospodarczy, podczas gdy §Rsprzeczna§! §gpolityka ekonomiczna§! negatywnie wpłynie na nasze §RDług Narodowy§!, §VInflacje§! oraz §Kwzrost PKB§!."
+
+ SGR_authdemvsfash_ticker_desc:0 "§YRPrzynaleznosc Rezimu§! zmienia sie obecnie o [getSGRAlignmentTrend] ([?alignmentTicker|+]/§Ymonth§!) na [getLeaningPivot] osi.\n\nThe £social_outlook_texticon Os §TPerspektywy Społeczenstwa§! decyduje w ktora strone przesuwa sie §YOdchył Rezimu§!, i jest zaznaczona na liczniku predkosci."
+
+ SGR_reformist_influence_tt:0 "§WReformistyczna§! sprawa w §gRzeszy§! na tym zyska[getRefMalus1].§!\n"
+ SGR_reformist_influence_mid_tt:0 "§W §GReformistyczna§! sprawa w §gRzeszy§! §Mznacznie§! na tym zyska[getRefMalus2].§!\n"
+ SGR_reformist_influence_big_tt:0 "§W §GReformistyczna§! sprawa w §gRzeszy§! §Twybitnie§! na tym zyska[getRefMalus3].§!\n"
+
+ SGR_malus_1_small:0 ", bedzie to nas kosztowac §R2.5%§! £GFX_regime_stability_texticon §YStabilnosci Rezimu§!"
+ SGR_malus_1_med:0 ", bedzie to nas kosztowac §R5%§! £GFX_regime_stability_texticon §YStabilnosci Rezimu§!"
+ SGR_malus_1_big:0 ", bedzie to nas kosztowac §R10%§! £GFX_regime_stability_texticon §YStabilnosci Rezimu§!"
+
+ SGR_conservative_influence_tt:0 "§W §RKonserwatywna§! sprawa w §gRzeszy§! na tym zyska[getConMalus1].§!\n"
+ SGR_conservative_influence_mid_tt:0 "§W §RKonserwatywna§! sprawa w §gRzeszy§! §Oznacznie§! na tym zyska[getConMalus2].§!\n"
+ SGR_conservative_influence_big_tt:0 "§W §RKonserwatywna§! sprawa w §gRzeszy§! §xwybitnie§! na tym zyska[getConMalus3].§!\n"
+
+ SGR_statereich_speeches:0 "Wyglos Przemowienie"
+ SGR_statereich_speeches_desc:0 "Wielu uwaza, ze choc rdzen poparcia dla Alberta Speera stanowia studenci, to NSDAP jest niczym wiszacy nad nim miecz Damoklesa. Charyzma i polityczny zmysł Speera pozwala mu jednak na oszalamiajacy wystep, ktory zadowoli co ufniejszych czlonkow partii."
+
+ SGR_statereich_promises_light:0 "Symboliczne Obietnice Polityczne"
+ SGR_statereich_promises_light_desc:0 "Nie mozemy zapomniec o podstawie poparcia dla naszego rezimu; o studentach, intelektualistach, wszystkich, ktorzy walczyli i polegli za nadzieje na lepsza przyszlosc. Obiecamy symboliczne reformy, chocby po to, aby ich uspokoic."
+
+ SGR_statereich_promises_huge:0 "Szerokie Obietnice Polityczne"
+ SGR_statereich_promises_huge_desc:0 "Musimy czym predzej ustabilizowac rezim i uspokoic spoleczenstwo. Cokolwiek mozemy powiedziec – powiemy, cokolwiek mozemy obiecac – obiecamy, czymkolwiek mozemy zwrocic uwage ludzi na nas, a nie na wrogow – zwrocimy. Reakcjonisci i dysydenci, ktorzy powiatpiewaja w realnosc naszych obietnic – coz, poradzimy sobie bez nich."
+
+ SGR_statereich_charge_treason:0 "Oskarz §jReakcjonistow§! o §RZdrade§!"
+ SGR_statereich_charge_treason_desc:0 "Moze i rzadzimy Rzesza, ale to nie znaczy, ze nie musimy sie zmagac z opozycja - wrecz przeciwnie. Reakcjonisci od poczatku byli nam cierniem w boku, ustawicznie stajac okoniem. Musimy im przypomniec, kto w Rzeszy rozdaje karty. Albo pogodza sie z nasza linia polityczna, albo... Dla niektorych to bedzie zbyt drastyczny srodek, ale na dluzsza mete to rozwiazanie konieczne dla interesow Rzeszy."
+
+ SGR_statereich_shift_econ_liberal:0 "Pchnij gospodarke w strone §MLiliberalizmu§!"
+ SGR_statereich_shift_econ_conservative:0 "Pchnij gospodarke w strone §gKonserwatyzmu§!"
+
+ SGR_StateReich_open_pakt:0 "§YPokaz decyzje zwiazane z Paktem§!"
+ SGR_StateReich_open_pakt_desc:0 "Kliknij, aby pokazac decyzje zwiazane z Einheitspaktem."
+
+ SGR_StateReich_close_pakt:0 "§YUkryj decyzje zwiazane z Paktem§!"
+ SGR_StateReich_close_pakt_desc:0 "Kliknij, aby ukryc decyzje zwiazane z Einheitspaktem."
+
+ SGR_pakt_open:0 "§YPkazuje decyzje zwiazane z Paktem.§!"
+
+ SGR_French_Question:0 "W Krainie Wina i Wasni"
+ SGR_French_Question_desc:0 "Francuzi duzo wycierpieli w ostatnich latach, zwlaszcza z rak Rzeszy. Przekonanie ich, aby znow dolaczyli do Einheitspaktu, bedzie zadaniem trudnym i wymagajacym ustepstw. Musimy jednak sprobowac, inaczej kraina wina pozostanie niestabilnym kotlem."
+
+ SGR_Brittany_War_Dec:0 "§RWykonaj Plan Rollo§!"
+ SGR_Brittany_War_Dec_desc:0 "Nastal czas. Postawmy zagle na maszt i wywiazmy sie z naszych zobowiazan wobec Francji, aby wreszcie przywrocic nasza hegemonie w Europie Zachodniej."
+
+ SGR_FRA_Invasion_of_Brittany:0 "Francja przygotowuje sie do Planu Rollo"
+ SGR_FRA_Invasion_of_Brittany_desc:0 "Francuzi koncza swoje przygotowania do wykonania swojej czesci Planu Rollo - wkrotce rozpocznie sie inwazja."
+
+ SGR_Invasion_of_Brittany:0 "Fall Rollo"
+ SGR_Invasion_of_Brittany_desc:0 "Fall Rollo to francusko-niemiecka operacja dla odzyskania kontroli nad Bretania w zamian za przywrocenie Francji do Einheitspaktu. Niczym wiking Rollo tysiac lat temu, Niemcy ponownie zapanuja nad Francja - a Francja, mniej lub bardziej opornie, zgodzi sie na to..."
+
+ SGR_France_German_reinforcement:0 "Wyslij ochotnikow do Francji"
+ SGR_France_German_reinforcement_desc:0 "Biorac pod uwage nasza role w Fall Rollo, przyslemy ochotnicze jednostki Wehrmachtu w formie francusko-niemieckich Freikorps."
+
+ SGR_France_German_equipment:0 "Wyslij ekwipunek do Francji"
+ SGR_France_German_equipment_desc:0 "Francuska armia cierpi tragiczne braki w sprzecie bojowym - wyslemy im bron, aby wspomoc ich wysilek bojowy w Fall Rollo."
+
+ SGR_France_German_manpower:0 "Wyslij posilki do Francji"
+ SGR_France_German_manpower_desc:0 "Po burgundzkim ataku rzad francuski utracil kilka najliczniej zaludnionych osrodkow. Wyslemy ochotnikow, aby uzupelnic ich rezerwy."
+
+ SGR_Regime_Collapse_Impeding:0 "§xUPADEK REZIMU NIEUNIKNIONY!§!"
+ SGR_Regime_Collapse_Impeding_desc:0 "Rezim Führera traci grunt pod nogami - musimy dzialac szybko i przywrocic jakas namiastke stabilnosci! Reakcjonisci ostrza sobie zeby na rzady - zwawo!"
+
+ SGR_Repatriation_Debug:0 "Commence Repatriation - DEBUG"
+ SGR_Repatriation_Debug_desc:0 "Placeholder"
+
+ SGR_South_African_War:0 "Wojna Poludniowoafrykanska"
+ SGR_South_African_War_desc:0 "W ciemnych wnetrznosciach Afryki rozpetala sie wojna, i nastal czas, aby wesprzec nasze Reichskommissariaty. Aby pomoc Schenckowi, Müllerowi and Hüttigowi w walce przeciwko RPA i ich poplecznikom, wyslemy oddzialy konieczne dla wzmocnienia ich szeregow. Nasi doradcy wroza sukces za niecaly rok, gdy ustanowimy marionetkowe Panstwo Burskie pod rzadami Alberta Hertzoga."
+
+ SGR_South_African_War_Withdraw:0 "Wycofaj sie z Wojny Poludniowoafrykanskiej"
+ SGR_South_African_War_Withdraw_desc:0 "Sytuacja w Wojnie Poludniowoafrykanskiej rozwinela sie nie do konca korzystnie dla Rzeszy. Speer i jego doradcy uznali za rozsadne wycofac oddzialy z tego krwawego konfliktu i zostawic jego przebieg losowi."
+
+ SGR_Ukraine_Question:0 "Uporanie sie z Ukraina"
+ SGR_Ukraine_Question_desc:0 "Choc nie jest tak niestabilna jak Ostland, Ukraina nalezy sie zajac jak najszybciej. Koniecznym jest, aby status 'Spichlerza Europy' zmienił się w ramach naszego kursu reform polityki zagranicznej."
+
+ SGR_Netherlands_Question:0 "Holenderski Problem"
+ SGR_Netherlands_Question_desc:0 "Nasi germańscy bracia w Niderlandach wyrwali sie z bezpiecznych objec Rzeszy, siegajac po calkowita niepodleglosc wbrew sprzeciwowi Europy. Sprobujemy wcielic Holendrow z powrotem do Einheitspaktu."
+
+ SGR_Denmark_Question:0 "Status Danii"
+ SGR_Denmark_Question_desc:0 "Germanizacja naszego polnocnego Protektoratu trwala przez ostatnie dwie dekady. Musimy zareagowac zarowno na zmieniajaca sie sytuacje polityczna, jak i na przyszlosc zwiazkow tego narodu z Rzesza, dzialajac ku jego reintegracji w ramach Einheitspaktu."
+
+ SGR_Bohemia_Question:0 "Heim ins Reich, Böhmen-Mähren"
+ SGR_Bohemia_Question_desc:0 "Przez ostatnie dwie dekady pomimo finansowej i politycznej sytuacji Rzeszy Protektorat Czech i Moraw lojalnie trwal u naszego boku. Po chaosie wojny domowej przez Europe plynie wiatr zmian, i nadszedl czas, aby na nowo pomyslec o obecnym statusie Protektoratu."
+
+ SGR_Issue_of_Slovakia:0 "Sprawa Slowacka"
+ SGR_Issue_of_Slovakia_desc:0 "Zaanektowawszy terytorium Czech i Moraw, Rzesza zwraca swoj surowy wzrok ku terytorium Słowacji. Otoczona, bez przyjaznych sasiadow, łatwo bedzie znow ja wcielic do Paktu. Postawimy im zwiezle ultimatum - przylacza sie, albo zmiazdzymy ich załosna armie i wejdziemy prosto do Bratysławy."
+
+ SGR_Moskowien_Question:0 "W Sercu Rosji"
+ SGR_Moskowien_Question_desc:0 "Pokryte krwia i sniegiem rowniny na wschodzie wymagaja naszej uwagi. Znikniecie Siegfrieda Kashe całkowicie zmieniło krajobraz polityczny Moskowien. Musimy zachowac całkowita kontrole nad sytuacja, aby terytoria Rzeszy mogły przetrwac i sie rozwijac."
+
+ SGR_Take_Moskowien:0 "Przygotuj sie do Odbicia Moskwy"
+ SGR_Take_Moskowien_desc:0 "[GetSGR_Take_Moskowien_desc]"
+ SGR_Take_Moskowien_desc_MSK:0 "Operacja, ktorej celem bedzie odbicie Moskowien, bedzie brutalna. Przebijajac sie przez bezkresne pole bitewne Europy, mozemy liczyc najwyzej na to, ze w upadłym panstwie upadło rowniez morale cywili. Nie zostanie wielu partyzantow, aby stawiac nam opor, i jedyna przeszkode beda stanowiły pozostałe jeszcze na placu boju, pozlepiane z byle czego, armie. Musimy jednak zachowac ostroznosc, i nie lekcewazyc trudnosci, jakie moze sprawic ta operacja."
+ SGR_Take_Moskowien_desc_PAU:0 "Przypadek von Helldorffa jest wyjatkowy. W naszych rekach byłby niezwykle uzytecznym narzedziem, priorytyzujac aryjskich kolonistow i dbajac o to, by nad wszystkim panowały Niemcy. Słowo-klucz to 'byłby'. Pomijajac osobiste antypatie Führera do tego człowieka, dokonania von Helldorffa po zniknieciu Kasche to porazka za porazka. Nie jest w stanie zarzadzac kolonia tak wazna jak Moskowien, i Führer nie waha sie, aby dac mu o tym do zrozumienia siła."
+ SGR_Take_Moskowien_desc_OKB:0 "Von Saucken to zdrajca i nie ma co do tego watpliwosci. Jego rzad, po zniknieciu Kasche i von Helldorffa, to wypaczenie celow Rzeszy. Jego wysiłki dla oczyszczenia rzadu od, w jego słowach, "brunatnego motłochu", były nie dosc zarliwe, i wielu z nich wciaz sprawuje władze. Jest on, w całym tego słowa znaczeniu, wrogiem stanu. Roznice ideologiczne - widoczne w rzekomej nienawisci von Sauckena do Hitlera - daja wystarczajacy powod, aby usprawiedliwic odzyskanie przez ojczyzne swojej kolonii. Nie bedzie miejsca dla krolow. Tylko dla Führera."
+ SGR_Take_Moskowien_desc_MOS:0 "Bronisław Kaminski, głowa kolaboracyjnej partii NSPR-V i jeden z najbardziej zazartych kolaboratorow w Moskowien, w pełni objał ster rzadow w kraju po zniknieciu Kaschego i rozpadzie kolonii. Raporty sa rozne, ale przerazajace. Niektorzy twierdza, ze Kaminski chce stworzyc panstwo, w ktorym Rosjanie rzadziliby sie sami, co stawia los Niemcow w Moskowien pod znakiem zapytania. Inni mowili o gwałtownej militaryzacji, i o tym, ze Kaminskiego nie zadowala samo Moskowien. Bez roznicy. To nikt wiecej, jak wsciekły pies - szalejace zwierze, zlikwidowane przez bardziej cywilizowane stworzenia."
+ SGR_Take_Moskowien_desc_RDC:0 "Wraz z byłym gubernatorem Orła na czele niepodległego panstwa moskiewskiego zagrozone jest nasze panowanie na kontynencie. Nie wiemy, co planuje Gorbaczow, a nasze kontakty w Moskowien wygasły. Tak jak w przypadku zniknięcia Kaschego, Moskowien jest zagrozone, tym razem jednak mozemy przygotowac odpowiedz. Jakiekolwiek plany Gorbaczowa co do terytorium Moskowien spotkaja swoj kres, a kolonia powroci do Paktu."
+
+ SGR_Moskowien_Setup:0 "Zreorganizuj Moskowien"
+ SGR_Moskowien_Setup_desc:0 "Skoro wielkie i puste tereny Moskowien wrocily pod nasza władze, musimy szybko zreorganizowac je i stworzyc działajacy rzad. Alexis von Roenne zostanie oficjalna glowa panstwa, a zanim zastanowimy sie nad przywroceniem cywilnego zarzadu, ustanowimy junte wojskowa. Nie beda zadowoleni, ale beda musieli to przyjac do wiadomosci. To lepsze wyjscie niz cokolwiek, do czego mogloby ich przekonac jakies rozlamowe rosyjskie panstwo."
+ GER_moskowien_conquered_trigger_tt:0 "Moskowien nie istnieje."
+ SGR_Moskowien_Setup_tt:0 "§YW Moskowien ustanowimy nowa administracje.§!"
+
+ SGR_Kaukasien_Question:0 "Kwestia Kaukaska"
+ SGR_Kaukasien_Question_desc:0 "W ciemnych mgłach Kaukazu lezy nasz najbardziej tajemniczy i oddalony Reichskommissariat. Ten kluczowy producent ropy naftowej musi byc w pełni ustabilizowany, aby mogł słuzyc interesom Rzeszy."
+
+ SGR_Polish_Question:0 "Polski Ciern"
+ SGR_Polish_Question_desc:0 "Wyrok historii głosi, ze Polska musi pozostac cierniem w boku Niemiec, bez wzgledu na dekade. Wygrawszy wojne domowa, musimy zwrocic uwage na wschod i podjac decyzje, jak rozprawic sie z tym cierniem - raz i na zawsze."
+
+ SGR_Norwegian_Question:0 "Połnocna Forteca"
+ SGR_Norwegian_Question_desc:0 "Gdy szalała wojna domowa, Josef Terboven zaszokował Rzesze, rozmontowujac nasz połnocny Reichskommissariat i wysyłajac tamtejszy garnizon z powrotem do Niemiec. Teraz poswiecimy pełna uwage samozwanczemu przywodcy Norwegii, i zastanowimy sie, jak najlepiej podejsc do przyszłosci tego narodu."
+
+ SGR_Ostland_Question:0 "Idealna Kolonia"
+ SGR_Ostland_Question_desc:0 "Tak zwana 'idealna kolonia' Rzeszy, niegdys bastion siły i lojalnosci, została spustoszona przez wyniszczajaca wojne i chaos. Aby zapewnic stabilnosc naszych terytoriow, zwrocimy wzrok na wschod i zajmiemy sie Reichskommissariatem Ostland."
+
+ GER_Bohemia_Reconstruction_SGR_A:0 "Czeska Rekonstrukcja"
+ GER_Bohemia_Reconstruction_SGR_B:0 "Czeska Rekonstrukcja"
+
+ SGR_retake_madagascar_militarists:0 "Powitaj Bohaterow Madagaskaru"
+ SGR_retake_madagascar_militarists_desc:0 "Dzielni zołnierze z Madagaskaru udowodnili swoja wartosc, zabezpieczajac wyspe przed wpadnieciem w rece zdrajcow i tubylcow, jednak z rozpoczeciem wojny domowej zostali odcieci od Germanii. Teraz pozwolmy im odpoczac od słuzby i przywrocmy kontrole Rzeszy nad Oceanem Indyjskim."
+
+ SGR_reclaim_mauritius_reunion:0 "Odzyskaj Mauritius i Réunion"
+ SGR_reclaim_mauritius_reunion_desc:0 "Koniec konfliktu na Madagaskarze wygonił nasze garnizony - pora odzyskac, co sie da. Niczym orzeł, Kriegsmarine rozpostrze skrzydla i zajmie Mauritius i Réunion, aby oddac je prawowitym włascicielom."
+
+ SGR_place_nukes_mauritius_reunion:0 "Umiesc Bron Jadrowa na Mauritiusie i Réunionie"
+ SGR_place_nukes_mauritius_reunion_desc:0 "Miecze Rzeszy nie moga spoczywac tylko w Europie, z dala od zagrazajacych nam rywali. Musimy zwiekszyc zasieg naszej broni jadrowej po to, aby zagrozic zarowno ich rdzennym terytoriom, jak i sasiadujacym posiadlosciom. Wyspy Mauritius i Réunion sa pierwszym krokiem, aby otoczyc naszych wrogow piekielnym ogniem."
+
+ SGR_allow_reunion_nukes:0 "Zabezpieczylismy nasze pozycje na Mauritiusie i Réunionie."
+## GUI stuff ##
+
+ #State of the Reich
+
+ SGR_stab_bonus_small:0 "§WNasza £GFX_regime_stability_texticon §YStabilnosc Rezimu§! §Gzwiekszy sie§! o §G2.5%!§!§!"
+ SGR_stab_bonus_med:0 "§WNasza £GFX_regime_stability_texticon §YStabilnosc Rezimu§! §Gzwiekszy sie§! o §G5%!§!§!"
+ SGR_stab_bonus_big:0 "§WNasza £GFX_regime_stability_texticon §YStabilnosc Rezimu§! §Gzwiekszy sie§! o §G10%!§!§!"
+ SGR_stab_bonus_20:0 "§WNasza £GFX_regime_stability_texticon §YStabilnosc Rezimu§! §Gzwiekszy sie§! o §G20%!§!§!"
+
+ SGR_stab_malus_small:0 "§WNasza £GFX_regime_stability_texticon §YStabilnosc Rezimu§! §Rzmniejszy sie§! o §R2.5%!§!§!"
+ SGR_stab_malus_med:0 "§WNasza £GFX_regime_stability_texticon §YStabilnosc Rezimu§! §Rzmniejszy sie§! o §R5%!§!§!"
+ SGR_stab_malus_big:0 "§WNasza £GFX_regime_stability_texticon §YStabilnosc Rezimu§! §Rzmniejszy sie§! o §R10%!§!§!"
+ SGR_stab_malus_15:0 "§WNasza £GFX_regime_stability_texticon §YStabilnosc Rezimu§! §Rzmniejszy sie§! o §R15%!§!§!"
+ SGR_stab_malus_30:0 "§WNasza £GFX_regime_stability_texticon §YStabilnosc Rezimu§! §Rzmniejszy sie§! o §R30%!§!§!"
+ SGR_stab_malus_huge:0 "§WNasza £GFX_regime_stability_texticon §YStabilnosc Rezimu§! §Rzmniejszy sie§! o §x50%!§!§!"
+
+ SGR_regime_stab:0 "§W£GFX_regime_stability_texticon §YStabilnosc Rezimu§! musi wynosic ponad §Y30%§!!§!"
+ SGR_collapse_averted:0 "§WUpadek rezimu został zazegnany.§!"
+ SGR_collapse_looming:0 "§xRezim upadnie!§!"
+
+ GER_SGR_propaganda_campaign_dynamic_modifier:0 "Kampania Propagandowa"
+
+ SGR_state_propaganda:0 "§WPANSTWOWA PROPAGANDA§!"
+ SGR_reformist_button:0 "§GREFORMISTYCZNA§!"
+ SGR_reformist_underbutton:0 "§gRREFORMISTYCZNA§!"
+ SGR_conservative_button:0 "§RKONSERWATYWNA§!"
+ SGR_conservative_underbutton:0 "§gKONSERWATYWNA§!"
+ SGR_launch_campaign_button:0 "§YROZPOCZNIJ KAMPANIE§!"
+ SGR_launch_campaign_underbutton:0 "§gROZPOCZNIJ KAMPANIE§!"
+
+ SGR_campaign_status:0 "[getSGRPropagandaCampaignStatus]"
+ SGR_propaganda_in_progress:0 "§RKAMPANIA W TRAKCIE§!"
+ SGR_propaganda_not_ready:0 "§YKAMPANIA W PRZYGOTOWANIU§!"
+ SGR_propaganda_nothing:0 "§ODOSTEPNA KAMPANIA§!"
+
+ SGR_launch_button_tt:0 "Efekty obecnej §WKampanii Propagandowej§! :\n\n-Political Power gain modifier: [?SGRPropagandaPPDisplay|+%]\n-Weekly Stability gain: [?SGRPropagandaStabDisplay|+%]\n-[getSGRPropagandaOutlook]\n-[getSGRPropagandaRegime]"
+ SGR_reformist_regime_prop_display:0 "§GReformistyczny§! Odchył Rezimu: [?SGRPropagandaReformistTickDisplay|+0]"
+ SGR_conservative_regime_prop_display:0 "§RCKonserwatywny§! Odchył Rezimu: [?SGRPropagandaConservativeTickDisplay|-0]"
+ SGR_reformist_outlook_prop_display:0 "£social_outlook_texticon §TPerspektywa Społeczenstwa§! §Gpostepuje§!: [?SGRReformistVarDisplay|+0]"
+ SGR_conservative_outlook_prop_display:0 "£social_outlook_texticon §TPerspektywa Społeczenstwa§! §Rcofa sie§!: [?SGRConservativeVarDisplay|-0]"
+
+
+ SGR_launch_underbutton_tt:0 "Rozpoczecie §WKampanii Propagandowej§! wymaga:\n\n-Albo §RKonserwatywnego§! or §GReformistycznego§! skupienia\n-£GFX_political_power_texticon §MPolitical Power§! zainwestowanych\n-£GFX_dollar_sign §GBudget§! zainwestowanych\n\nA Kampania Propagandowa zabiera §Y4 miesiace§!."
+ SGR_reformist_button_tt:0 "Kampania skupi sie na §GReformistycznej§! propagandzie.\n\nSkupienie na §Greformistycznej§! propagandzie zwiekszy odchył §YRezimu§! w strone reformizmu, §Gpchnie do przodu§! §TPerspektywe Społeczenstwa§! i zwiekszy §YStabilnosc Rezimu§!."
+ SGR_conservative_button_tt:0 "Kampania skupi sie na §RKonserwatywnej§! propagandzie.\n\nSkupienie na §Rkonserwatywnej§! propagandzie zwiekszy odchył §YRezimu§! w strone konserwatyzmu, §Rcofnie§! §TPerspektywe Spoleczenstwa§! i zwiekszy §YStabilnosc Rezimu§!."
+ SGR_increase_pp_button_tt:0 "Zwiększ £GFX_political_power_texticon §MPolitical Power§! o §Y20§!, dajac nastepujace perspektywiczne bonusy:\n\n-§G+0.5%§! wzrostu Siły Politycznej\n-§G+1§! odchyłu §TPerspektywy Społeczenstwa§! "
+ SGR_decrease_pp_button_tt:0 "Zmniejsz £GFX_political_power_texticon §MPolitical Power§! o §Y20§!, dajac nastepujace perspektywiczne bonusy:\n\n-§R-0.5%§! wzrostu Siły Politycznej\n-§R-1§! odchyłu §TPerspektywy Społeczenstwa§! "
+ SGR_increase_budget_button_tt:0 "Zwieksz £GFX_dollar_sign §Gbudzet§! o §Y2M$§!, dajac nastepujace perspektywiczne bonusy:\n\n-§G+0.05§! tygodniowego wzrostu Stabilnosci\n-§G+1§! §YOdchyłu Rezimu§! "
+ SGR_decrease_budget_button_tt:0 "Zmniejsz £GFX_dollar_sign §Gbudzet§! o §Y2M$§!, dajac nastepujace perspektywiczne bonusy:\n\n-§R-0.05§! tygodniowego wzrostu Stabilnosci\n-§R-1§! §YOdchyłu Rezimu§!"
+
+ SGR_ppinvest_text:0 "£GFX_political_power_texticon §MSIŁA POLITYCZNA§!: [?SGRPPInvestment|Y0]"
+ SGR_moneyinvest_text:0 "£GFX_dollar_sign §GBUDZET§!: [?SGRUSDInvestment|Y0]§YM$§!"
+
+
+SGR_somewhat_reformist:0 "§Gnieco reformistyczny§!"
+SGR_average_reformist:0 "§Greformistyczny§!"
+SGR_strongly_reformist:0 "§Gsilnie reformistyczny§!"
+SGR_somewhat_conservative:0 "§Rnieco konserwatywny§!"
+SGR_average_conservative:0 "§Rkonserwatywny§!"
+SGR_strongly_conservative:0 "§Rsilnie konserwatywny§!"
+SGR_unmoving_ticker:0 "§Ynie ulega zmianie§!"
+
+SGR_russia_unifier_blank:0 "Russia: §YAssessment pending...§!"
+SGR_russia_unifier_fill:0 "[RUS_total_unifier.GetFlag][RUS_total_unifier.GetName]: [getSGRRussianInfluence]"
+
+SGR_russia_inf_strcon:0 "§xNIEPOKOJACY§! sprzeciw militarystow"
+SGR_russia_inf_con:0 "§OZAUWAZALNY§! sprzeciw militarystow"
+SGR_russia_inf_ref:0 "§MNIEWIELKIE§! zainteresowanie akademikow"
+SGR_russia_inf_strref:0 "§GZNACZACE§! zainteresowanie akademikow"
+
+SGR_foreigninf_nonexistant:0 "§WNIESTNIEJACE§!"
+SGR_foreigninf_weak:0 "§YSŁABE§!"
+SGR_foreigninf_middling:0 "§OSREDNIE§!"
+SGR_foreigninf_significant:0 "§RZNACZNE§!"
+
+SGR_Cons_Inf_weak:0 "§YSŁABE§!"
+SGR_Cons_Inf_med:0 "§OZNACZNE§!"
+SGR_Cons_Inf_strong:0 "§RPOTEZNE§!"
+
+SGR_Ref_Inf_weak:0 "§WSŁABE§!"
+SGR_Ref_Inf_med:0 "§MZNACZNE§!"
+SGR_Ref_Inf_strong:0 "§GPOTEZNE§!"
+
+SGR_Leaning_str_con:0 "§RPRZEWAZAJACO KONSERWATYWNE§!"
+SGR_Leaning_con:0 "§OKONSERWATYWNE§!"
+SGR_Leaning_neutral:0 "§YPOMIEDZY§!"
+SGR_Leaning_ref:0 "§MREFORMISTYCZNE§!"
+SGR_Leaning_str_ref:0 "§GPRZEWAZAJACO REFORMISTYCZNE§!"
+
+SGR_outlook_progressing:0 "§Gpostepuje§!"
+SGR_outlook_regressing:0 "§Rcofa sie§!"
+SGR_outlook_stagnant:0 "§Ypozostaje bez zmian§!"
+SGR_outlook_upperlimit:0 "§Y500§!"
+SGR_outlook_lowerlimit:0 "§Y-500§!"
+
+SGR_party_support_none:0 "§xwrodzy§!"
+SGR_party_support_weak:0 "§Rniechetni do wspołpracy§!"
+SGR_party_support_mid:0 "§Yniezdecydowani§!"
+SGR_party_support_strong:0 "§Tchetni do wspołpracy§!"
+SGR_party_support_complete:0 "§yprzyjazni§!"
+
+
+SGR_neutral_tt:0 "§Yneutralni§!"
+
+SGR_authdemtrend_small:0 "§Greformistyczny§!"
+SGR_authdemtrend_medium:0 "§Gsilnie reformistyczny§!"
+SGR_authdemtrend_large:0 "§Gprzewazajaco reformistyczny§!"
+
+SGR_fashtrend_small:0 "§Rkonserwatywny§!"
+SGR_fashtrend_medium:0 "§Rsilnie konserwatywny§!"
+SGR_fashtrend_large:0 "§Rprzewazajaco konserwatywny§!"
+
+#Propaganda events
+
+
+ speerpropaganda.1.t:0 "Listy z Frontu"
+ speerpropaganda.1.desc:0 "Wilhelmowi aż kręciło się w głowie z wrażenia, gdy wchodził do muzeum. Muzeum! To jego pierwsza wycieczka za miasto bez rodziców! Jego klasa wygrała wycieczkę do nowo otworzonego "Muzeum Wojny Domowej" w Hamburgu i dwudziestu pięciu chłopców w wieku dziewięciu-dzięsieciu lat wyjechało z Elmshorn do wielkiej metropolii.\n\nEkspozycja zachwyciła wszystkich. Każda sala miała swój temat: "walki miejskie" z rekonstrukcją okopów; "polityka" z analizą powodów, które doprowadziły do wojny domowej; "szpiegostwo" z taktykami używanymi przez pretendentów, aby zdobyć przewagę. Tematem ostatniej sali były "listy z frontu". Leżały tam setki wiadomości wysłanych w trakcie wojny przez żołnierzy i milicjantów do swoich najbliższych.\n\nWilhelm spojrzał na jedną z gablotek i zaczął czytać: "Droga Kriemhildo, bardzo tęsknię za Tobą. Nie masz pojęcia, jak bardzo chciałbym wrócić do domu, do Ciebie, jednak nie mogę tego zrobić.\nHeydrich wypuścił swoje wilki. Pamiętasz tą małą restaurację, gdzie byliśmy na wakacjach w zeszłym roku? Powiesili tam połowę wsi. Druga kopie okopy dla SS. Przysięgam na moje życie, nie pozwolę, aby to stało się z Tobą.\nJutro pewnie zaatakują, ale będę gotowy. Noszę Twoje zdjęcie przy sercu, i jeśli zginę, zginę z Twoim imieniem na ustach. Kocham cię."\n\nNa małej plakietce było napisane "Eberhart Jenk, poległ w walce."\n\nWilhelm aż zatrząsł się pod wpływem tych słów i zapytał nauczyciela: "Panie profesorze, kto to był Heydrich?"\n\nTwarz nauczyciela natychmiast się skrzywiła, ale spojrzał na chłopca spokojnie i odpowiedział: "Heydrich był człowiekiem, który chciał podpalić świat. Był zdeterminowany, aby dopiąć swego i patrzeć, jak spełniają się jego ciemne pragnienia. Też tego chciałbyś, Wilhelmie? Chciałbyś podpalić świat i patrzeć, jak płonie?"\n\n"Nie!" powiedział chłopiec, "Chcę, aby świat był szczęśliwy, abym mógł spędzać czas z mamą i tatą i się bawić!"\n\nTwarz nauczyciela rozweseliła się. Roześmiał się i pogłaskał chłopca po głowie: "Chodź, już jest późno." Podniósł głos: "Klasa! Pora już iść! Mam nadzieję, że wizyta była pouczająca!""
+ speerpropaganda.1.a:0 "Tak jest, panie profesorze!"
+
+ speerpropaganda.2.t:0 "Proces Pokazowy"
+ speerpropaganda.2.desc:0 "Tłum ciasno wypełniał salę sądową. Dziennikarze, kamerzyści, policjanci i zwykli ludzie wypełniali po brzegi ławy dla widzów, i łatwo można było zrozumieć, dlaczego: Herbert Otto Gille, szef służby bezpieczeństwa zdradzieckiej fakcji SS podczas wojny domowej, bezspośrednio odpowiedzialny za setki, jeśli nie tysiące doraźnych egzekucji, został złapany niecały tydzień temu, gdy próbował przekroczyć granicę między Alzacją a Ordensstaat.\n\nDrzwi otworzyły się i tłum zawył, gdy Gillego doprowadzono na miejsce oskarżonego. Niektórzy, najpewniej bliscy pewnych jego ofiar, próbowali się do niego przedrzeć, jednak zatrzymała ich policja. Gdy na sali zapanował spokój, rozpoczął się proces. Zapytany, czy ma jakieś oświadczenie do wygłoszenia, oskarżony wstał: "Nie uznaję tego sądu! Żaden z was nie ma nade mną żadnej władzy!” Wybuchły krzyki, ale on krzyczał jeszcze głośniej. "Nie widzicie tego? Tego nieładu, tej degeneracji? Heydrich chciał przynieść Niemcom pokój! Nowy porządek, idealny porządek! Wyciąłby zepsucie tak, jak wycina się raka! Spójrzcie na siebie, jesteście tylko gangreną toczącą idealne niemieckie ciało!"\n\nJego tyradę przerwał śmiech. Podczas gdy on szalał, prokurator włączył nagranie.\n"Dziękuję za pański dar dla naszej sprawy" rozbrzmiał łatwo rozpoznawalny głos Gillego, "Mojej żonie na pewno spodoba się ten piękny naszyjnik, a mi przyda się nowy samochód, ale porozmawiajmy może o sprawach ważniejszych?"\n"Herr Gille" wesoło dodał prokurator, zatrzymując magnetofon, "jeśli my jesteśmy rakiem na Niemczech, to panu daleko do zdrowia..."\n\nMinęło kilka sekund i ktoś w tłumie zaczął się śmiać, zaraz dołączył ktoś drugi i trzeci, aż cała sala pokładała się ze śmiechu, słyszalnego nawet z ulicy. Tego dnia wszystkie gazety i dzienniki telewizyjne pokazywały, jak wściekły esesman desperacko krzyczy do tłumu, aby się zamknął, tylko po to, aby jego głos utonął w śmiechu."
+ speerpropaganda.2.a:0 "SS znika wśród hańby, pokonane przez śmiech."
+
+ speerpropaganda.3.t:0 "Nowa Przyszłość Niemieckiej Sztuki Kulinarnej"
+ speerpropaganda.3.desc:0 "Ciężko było to rozpoznać, dopóki ekran śnieżył, ale po chwili w monochromatycznej kuchni ukazała się tradycyjna Niemka. "Och, muszę przygotować jedzenie dla rodziny", zapowiedziała. "Ale najpierw – przybory!" powiedziała, sięgając po nóż. Kamera wykonała zbliżenie na blat z owocami. "Muszę pokroić owoce..." wymamrotała, przykładając nóż i starając się przeciąć na pół jabłko. Po kilku sekundach westchnęła z rezygnacją i odłożyła nóż. Na jabłku pojawiło się tylko lekkie nacięcie. "Niech to. Lepiej sprawdzę, czy talerze są czyste."\n\nChwyciła w ręce dwa talerze i odwróciła się z nimi do kamery. Zaskoczenie i niesmak mieszały się na jej twarzy."Pęknięcia!" powiedziała, patrząc na naczynia. "A jeszcze wczoraj wyglądały świetnie!"\n\nZza ekranu rozległ się dźwięk otwieranych drzwi i głęboki, męski głos zawołał wesoło "Kochanie!" Żona zostawiła talerze, aby przywitać męża. Ten trzymał w rękach duże pudełko. "Zauważyłem ostatnio jakość naszej zastawy i zdecydowałem się zajrzeć do sklepu niedaleko, aby sprawdzić, co mają w ofercie,  i sama w to nie uwierzysz!"\n\n"Mogę?" spytała żona, pokazując, aby postawić pudełko na stole. "Co wyróżnia te naczynia?" Mąż zaśmiał się i wskazał na znak na dnie talerza. Kamera wykonała zbliżenie – znak głosił 'WYKONANE WSZECHNIEMIECKIMI DŁOŃMI'. Kobieta uniosła brwi. "Łał! Chcesz mi powiedzieć, że wszystkie te naczynia zostały wykonane niemieckimi dłońmi?" Przytaknął. "W niemieckiej fabryce?" Przytaknął jeszcze raz. "Którym niemiecki pracodawca wypłacił godną, uczciwą płacę?" Przytaknął po raz ostatni, a kobieta uśmiechnęła się i odwróciła do kamery, zakładając ręce."
+ speerpropaganda.3.a:0 ""To by było na tyle! Od dziś zamiast produktów wykonanego przymuszonymi rękoma kupuję tylko te stworzone rękoma wolnymi i szczęśliwymi!""
+
+ speerpropaganda.4.t:0 "Wyczyścić Zło"
+ speerpropaganda.4.desc:0 "Ekran śnieżył przez chwilę, po czym nagle na ekranie ukazał się człowiek w czarnej zbroi, z karabinem w jednej dłoni i flagą w drugiej. Idąc do przodu, podniósł flagę, ukazując dawny symbol Niemiec, wbijając go w ziemię u swoich stóp. Cofnął się i spojrzał na flagę z ciekawością. Ciekawość zamieniła się we wrogość, a wrogość w śmiech. Kręcąc głowa, człowiek złapał karabin, wycelował we flagę i pociągnął za spust. \n\nRozległa się seria, a gdy ucichła, flaga Niemiec padła, podziurawiona, na ziemię. Po chwili martwej ciszy druga flaga zawisła na jej miejscu. Czarna, z Czarnym Słońcem pośrodku. Burgundzka.\n\nKamera odwróciła się, ukazując płonące bloki i ruiny miast zasnute dymem. Wciąż rozlegał się okrutny śmiech. Trwało to niemal dwanaście sekund, aż kamera zmieniła się znowu. \n\nTym razem były to czyste ulice Niemiec. Młody, zdrowo wyglądający człowiek w mundurze Wehrmachtu bawił się z dwójką dzieci, głaszcząc je po włosach. Z oddali przyglądali im się, z uśmiechami na twarzach, rodzice. Gdy to miało miejsce na ekranie, rozległ się głos. \n\n"Musimy uniknąć błędów przeszłości, które doprowadziły do okrucieństwa. Wczoraj ulice Niemiec spłynęły krwią. Dzisiaj w naszych domach, lasach i górach panuje pokój. Jutro, będziemy mieli prawy Wehrmacht – taki, który nie będzie mógł popełniać strasznych rzeczy, do których Niemcy musiały się uciekać w przeszłości." Żołnierz w zgodzie rozstaje się z dziećmi i rodzicami i odchodzi, machając na pożegnanie."
+ speerpropaganda.4.a:0 "Wypełnij swoje zadanie. Uczyń Siły Zbrojne Niemiec bardziej ludzkim miejscem."
+
+ speerpropaganda.5.t:0 "Das Vaterland"
+ speerpropaganda.5.desc:0 ""Kochanie, zaczyna się! Weź chłopców!" krzyknęła Hilde Schwartz z salonu, i zaraz potem dołączyła do niej reszta rodziny: Gunther usiadł na sofie obok żony, a Hans i mały Frank bawili się na podłodze przed telewizorem. Zaraz potem rozległa się muzyka z czołówki: reklamowany w gazetach i na plakatach, "Das Vaterland" był zrealizowanym z rozmachem programem historycznym, który miał uczyć niemieckiej historii szeroką publiczność, łącząc edukację z rozrywką. \n\n"Dobry wieczór, i witamy w Das Vaterland!" Prowadzący uśmiechnął się do kamery. "Po mojej prawej pan Karl Manitius, dyrektor Monumenta Germaniae Historica, największego zespołu badawczego niemieckiego średniowiecza, a po mojej lewej pan Friedrich Zipfel, weteran wojenny i ekspert zajmujący się badaniem Drugiej Wojny Światowej".Mężczyźni ukłonili się publiczności. "Dzisiaj zajmiemy się naszymi stosunkami z krajem, który był powszechnie uznawany za największego wroga Niemiec: Francją".\n\nProgram trwał do północy, ale wydawało się, że minęła tylko chwila. Rekonstrukcja bitwy pod Bouvines, gdy Francja niesprawiedliwie odrzuciła Świętego Cesarza Rzymskiego jako swojego seniora, zafascynowała dzieci; Gunther docenił wywód Manitiusa o tym, jak Francuzi posunęli się nawet do sojuszu z niewiernymi, aby oprzeć się Niemcom w trakcie wojny trzydziestoletniej; Hilde wzruszyła do łez historia Luizy, królowej Prus, która była na tyle dzielna, aby osobiście spotkać się z Napoleonem, gdy wszelka nadzieja zawiodła.\n\nGunther zabrał śpiącego Franka do łóżka, ale Hans podciągnął spodnie: "Tato" odezwał się śpiącym głosem, "czy to się znowu zdarzy? Te wojny, czy Francja znów spróbuje zająć nasze miejsce?". Gunther pomyślał przez chwilę i zaśmiał się: "Nie, mój mały, już nie spróbuje. Nasz Führer nas obroni, tak, jak podczas wojny domowej." Rodzina położyła się spać."
+ speerpropaganda.5.a:0 ""Tak, tato!""
+
+ speerpropaganda.6.t:0 "Wróg Kryjący Się Wewnątrz"
+ speerpropaganda.6.desc:0 "Ulice Monachium wciąż pogrążone były w ciemnościach, i tylko drobna łuna na horyzoncie wskazywała na nadchodzący świt, ale Eberhard Gottlieb już szedł rozgrzać piec. Piekarz musi zdążyć upiec chleb dla każdego, nieprawdaż? Idąc dobrze znanymi ulicami, pośpiesznie pozdrowił patrol Orpo mijający skrzyżowanie równo o 5:45, jednak zaraz potem coś przykuło jego uwagę: cały mur pokryty identycznymi plakatami. Zatrzymał się, aby na nie popatrzeć.\n\nSymbolika była prosta, ale skuteczna. W centrum stała wysoka kolumna z wielkim złotym orłem na szczycie, majestatycznym i dumnym. U podstawy kolumny mrowie ludzików próbowało za pomocą kilofów obalić kolumnę: niektórzy byli ubrani w eleganckie ubrania, inni nosili skromniejsze, jednak kieszenie wszystkich wypychały dolary. Na orła patrzyli z mieszaniną nienawiści i strachu. Na dole plakatu dużymi gotyckimi literami napisane było "Schützen Sie Deutschland!".\n\nEberhard patrzył na plakat przez kilka minut, zastanawiając się. Czy naprawdę za wszystko byli odpowiedzialni Amerykanie? Rozpad gospodarki, Wojna Rosyjska, Wojna Domowa? To by było niemożliwe, prawda, ale jeszcze kilka lat temu Amerykanie byli wrogami Niemiec, i mogli wiele zyskać na ich osłabieniu... Idąc do piekarni, Eberhard nie mógł odpędzić od siebie ostatniej myśli."
+ speerpropaganda.6.a:0 "Cholerni Amerikaner..."
+
+ speerpropaganda.7.t:0 "Zaczyna Się Od Ciebie!"
+ speerpropaganda.7.desc:0 "Na ekranie ukazuje się drużyna młodych ludzi, noszących tradycyjne mundury Hitlerjugend, wspinająca się w ramach ćwiczeń na szczyt wzgórza. Rozlega się głos – wolny, głęboki i miękki. "Czy uważasz, że twoje dziecko pozbawione jest celu i ambicji? Może jest leniwe, i woli marnować życie na różne frywolne rozrywki? Jeśli jesteś zaniepokojonym rodzicem takiego syna, mamy dla ciebie łatwe rozwiązanie".\n\nNa ekranie ukazuje się chłopiec nie młodszy niż siedemnastoletni. Stoi dumnie, chociaż niezgrabnie, i robi niepotrzebną przerwę, zanim zaczyna mówić do kamery. "Gdy dołączyłem do Hitlerjugend, na początku nie mogłem wytrzymać. Wszystko było takie uporządkowane i zdyscyplinowane. Czułem się jak w klatce. Ale po paru miesiącach zrobiło się znacznie lepiej. Stałem się sprawny fizycznie," powiedział, gdy materiał ukazał go biegnącego w maratonie. "Stałem się żarliwy", ciągnął, ukazując się na ekranie w momencie wygłaszania przemówienia do grupy Hitlerjugend. "Poznałem też wielu przyjaciół".\n\nGdy kamera ukazuje go rozmawiającego z innymi członkami organiacji, narrator komentuje: "Tak to wygląda. Jak widzicie, można odwrócić życie każdego młodego człowieka do góry nogami! Zalecamy, aby wszyscy Aryjczycy dołączyli do Hitlerjugend, aby wasze ciała i umysły były w równym stopniu silne i wyćwiczone"."
+ speerpropaganda.7.a:0 ""I pamiętajcie, dobry Aryjczyk to dobra Aryjska Rzesza!""
+
+ speerpropaganda.8.t:0 "Karabiny na Pługi"
+ speerpropaganda.8.desc:0 "Wkoło niego rozlegały się strzały. Był żołnierzem Rzeszy – pełnym odwagi i determinacji. W jednej, zakrwawionej ręce trzymał pistolet, w drugiej ostry, czysty nóż. Dookoła niego leżały ciała poległych towarzyszy, jednak trupów bolszewików było znacznie więcej. Żołnierz spojrzał wściekle na flagę na rogu budynku. Czerwony sztandar z przeklętym symbolem sierpa i młota drwił z niego.\n\nMężczyzna splunął. Idąc do przodu, uniósł wysoko nóż, i kamera uchwyciła go z profilu. Zbliżył się do flagi i uniósł rękę, aby rozerwać ją na pół, jednak w pół ciosu obraz zanikł i zmienił się w coś innego.\n\nMotyka uderzyła w ziemię. Kamera oddaliła się, ukazując starszego człowieka pracującego na słonecznym polu. Gdy ten kontynuował pracę, rozległ się głos. "Twoja służba nie musi się kończyć po zwolnieniu z Wehrmachtu. Tacy ludzie są wyjątkowo cenni dla Rzeszy. Ludzie silni i rozumni, weterani, którzy udowodnili swoją lojalność – oni uosabiają Rzeszę! Jest nadzieja dla tych, którzy wiernie służyli".\n\nKamera ukazuje innego starszego mężczyznę, który puka do drzwi domu i wręcza mieszkańcom pocztę. "Powstają nowe gałęzie przemysłu, a zatem i nowe możliwości. Jeśli jesteś weteranem Heer, Luftwaffe albo Kriegsmarine, szukając pracy w sektorze cywilnym, masz pierwszeństwo w znalezieniu zatrudnienia. Nie możemy zapomnieć twojej ofiary, więc będziesz za nią wynagrodzony.""
+ speerpropaganda.8.a:0 ""Nie zapominaj – Rzesza to lud, a pracować trzeba zawsze dla ludu!""
+
+
+ ## Tooltips ##
+ TNO_free_ukraine_tt:0 "§GZadanie wolnosci jest zrozumiałe,§! §jjednak Niemcy nie moga przymierac głodem przez Ukraine.§!"
+ TNO_collab_ukraine_tt:0 "§jKroczek po kroczku przemodelujemy Europe własnymi rekoma,§! §jesli zechcemy przeprowadzic odpowiednie reformy.§!"
+ TNO_Poland_Bully_tt:0 "§YPolacy nie chca pasc na kolana na nasze zadanie. Nasze siły upewnia sie, ze z kolan juz nie wstana§!"
+ TNO_Poland_The_World_Watches_tt:0 "§YMiedzynarodowa społecznosc bedzie obserwowac nasze podejscie do tej kwestii. Na szali stoi nasza dobra reputacja.§!"
+ TNO_Goodwill_Proven_Wrong_tt:0 "§jProbowalismy, ale dla miedzynarodowej społecznosci nasze wysiłki nie wystarcza.§!"
+ TNO_Goodwill_Proven_Wrong_tt_2:0 "§jPomimo naszych wysiłkow, wydaje sie, ze przeznaczeniem Polski jest zginac.§!"
+ TNO_Poland_Lives_tt:0 "§GZ miedzynarodowa społecznoscia za swiadkow, udowodnilismy nasza dobra wole, a Polska jeszcze nie zginela.§!"
+ SGR_careful_barons:0 "Ostroznie podejdziemy do kwestii nowego rezimu na Kaukazie."
+ SGR_bruh_dont_do_this:0 "§WZrobienie tego §xpoteznie§! zwiekszy §Rnapiecie§! w stosunkach z innymi supermocarstwami!§!"
